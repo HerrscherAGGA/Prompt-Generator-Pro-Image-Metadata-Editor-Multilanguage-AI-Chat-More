@@ -1,0 +1,2 @@
+# Prompt-Generator-Pro-Image-Metadata-Editor-Multilanguage-AI-Chat-More
+It acts as a "sanitization and enhancement" filter between your brain and the canvas. Whether you need to brainstorm ideas with an integrated AI, extract hidden metadata directly from web images, or magically format chaotic text blocks into pristine prompts, PGP handles it all in a highly customizable, glassmorphism workspace.
