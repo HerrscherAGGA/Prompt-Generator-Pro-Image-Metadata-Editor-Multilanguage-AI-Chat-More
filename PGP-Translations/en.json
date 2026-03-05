@@ -446,5 +446,6 @@
     "🔍 Buscar idioma (ej: ja, French, Español)...": "Search language (e.g., ja, French, Spanish)...",
     "El archivo seleccionado no tiene traducciones válidas.": "The selected file has no valid translations.",
     "Lista actualizada, pero solo tienes el idioma base.\n¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "Updated list, but only the base language is available.\nWould you like to open the Community Store to download more languages?",
-    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "Everything is ready for your contribution!\n\n1️⃣ The code was copied to your clipboard.\n2️⃣ The browser opened to the official folder.\n\nPress Ctrl + V to paste the text and click Propose changes."
+    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "Everything is ready for your contribution!\n\n1️⃣ The code was copied to your clipboard.\n2️⃣ The browser opened to the official folder.\n\nPress Ctrl + V to paste the text and click Propose changes.",
+    "Lista actualizada, pero solo tienes el idioma base. ¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "Updated list, but you only have the base language. Would you like to open the Community Store to download more languages?"
 }
