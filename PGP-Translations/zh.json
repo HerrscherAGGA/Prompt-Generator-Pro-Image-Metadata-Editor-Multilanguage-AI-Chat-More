@@ -436,5 +436,20 @@
     "✅ Modelos instalados correctamente.\nIniciando librería...": "模型已成功安装。\n正在初始化库...",
     "❌ Error al descargar:\n{0}\n\nRevisa tu conexión a internet o intenta más tarde.": "❌ 下载失败：\n{0}\n\n请检查网络连接或稍后重试。",
     "Descargando modelos... (Esto puede tomar unos minutos dependiendo de tu internet)": "正在下载模型...（根据您的网络速度，此过程可能需要几分钟）",
-    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "你好！为了保持主程序轻量化，高级音频引擎将单独下载。安装后，你将拥有54种语音和9种语言可供选择。\n\n不过，如果你想节省空间，建议在下载完成后删除piper文件夹，因为它仅包含Alexa、Cortana和谷歌助手的语音。当然，最终决定还是由你决定。\n\n系统默认语音始终可用。"
+    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "你好！为了保持主程序轻量化，高级音频引擎将单独下载。安装后，你将拥有54种语音和9种语言可供选择。\n\n不过，如果你想节省空间，建议在下载完成后删除piper文件夹，因为它仅包含Alexa、Cortana和谷歌助手的语音。当然，最终决定还是由你决定。\n\n系统默认语音始终可用。",
+    "Cerrar": "关闭",
+    "Tienda": "商店",
+    "Subir mi Traducción": "上传我的翻译",
+    "Ruta de imagen: {0}": "{0}",
+    "Compartir en la Tienda": "分享到商店",
+    "Descargar Seleccionados": "下载所选",
+    "Conectando con GitHub...": "正在连接 GitHub...",
+    "Tienda de Idiomas Comunitaria": "社区语言商店",
+    "Error de conexión. Revisa tu internet.": "连接错误。请检查网络。",
+    "Selecciona tu traducción para compartir": "选择你要分享的翻译",
+    "Selecciona los idiomas que deseas instalar:": "请选择要安装的语言：",
+    "🔍 Buscar idioma (ej: ja, French, Español)...": "搜索语言（例如：ja, 法语, 西班牙语）...",
+    "El archivo seleccionado no tiene traducciones válidas.": "所选文件没有有效的翻译。",
+    "Lista actualizada, pero solo tienes el idioma base.\n¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "列表已更新，但仅支持基础语言。\n是否要打开社区商店下载更多语言？",
+    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "一切准备就绪，等待你的贡献！\n\n1️⃣ 代码已复制到剪贴板。\n2️⃣ 浏览器已打开官方文件夹。\n\n按 Ctrl + V 粘贴文本，然后点击“提交更改”。"
 }
