@@ -436,5 +436,20 @@
     "✅ Modelos instalados correctamente.\nIniciando librería...": "모델이 성공적으로 설치되었습니다.\n라이브러리를 초기화 중입니다...",
     "❌ Error al descargar:\n{0}\n\nRevisa tu conexión a internet o intenta más tarde.": "{0}\n\n인터넷 연결을 확인하거나 나중에 다시 시도해 주세요.",
     "Descargando modelos... (Esto puede tomar unos minutos dependiendo de tu internet)": "모델 다운로드 중... (인터넷 속도에 따라 몇 분 소요될 수 있습니다)",
-    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "안녕하세요! 메인 프로그램을 가벼우게 유지하기 위해 고급 오디오 엔진은 별도로 다운로드됩니다. 설치하면 54개의 목소리와 9개의 언어를 사용할 수 있습니다.\n\n공간을 절약하고 싶다면 다운로드가 완료되면 piper 폴더를 삭제해도 됩니다. 이 폴더에는 Alexa, Cortana, 구글 어시스턴트의 목소리만 포함되어 있습니다. 물론 선택은 자유로우시니 마음대로 하세요.\n\n시스템 기본 목소리는 항상 사용할 수 있습니다."
+    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "안녕하세요! 메인 프로그램을 가벼우게 유지하기 위해 고급 오디오 엔진은 별도로 다운로드됩니다. 설치하면 54개의 목소리와 9개의 언어를 사용할 수 있습니다.\n\n공간을 절약하고 싶다면 다운로드가 완료되면 piper 폴더를 삭제해도 됩니다. 이 폴더에는 Alexa, Cortana, 구글 어시스턴트의 목소리만 포함되어 있습니다. 물론 선택은 자유로우시니 마음대로 하세요.\n\n시스템 기본 목소리는 항상 사용할 수 있습니다.",
+    "Cerrar": "닫기",
+    "Tienda": "가게",
+    "Subir mi Traducción": "내 번역 업로드",
+    "Ruta de imagen: {0}": "{0}",
+    "Compartir en la Tienda": "가게에서 공유하기",
+    "Descargar Seleccionados": "선택한 파일 다운로드",
+    "Conectando con GitHub...": "GitHub에 연결 중...",
+    "Tienda de Idiomas Comunitaria": "공동어어 커뮤니티 상점",
+    "Error de conexión. Revisa tu internet.": "인터넷 연결 오류입니다. 인터넷 상태를 확인해 주세요.",
+    "Selecciona tu traducción para compartir": "공유할 번역을 선택하세요",
+    "Selecciona los idiomas que deseas instalar:": "설치하려는 언어를 선택하세요:",
+    "🔍 Buscar idioma (ej: ja, French, Español)...": "ja, 프랑스어, 스페인어)...",
+    "El archivo seleccionado no tiene traducciones válidas.": "선택한 파일은 유효한 번역이 없습니다.",
+    "Lista actualizada, pero solo tienes el idioma base.\n¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "업데이트된 목록이지만 기본 언어만 제공됩니다.\n추가 언어를 다운로드하려면 커뮤니티 스토어 열기를 원하시나요?",
+    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "당신의 기여가 준비되었습니다!\n\n1️⃣ 코드가 클립보드에 복사되었습니다.\n2️⃣ 공식 폴더가 브라우저에서 열렸습니다.\n\nCtrl + V를 눌러 텍스트를 붙여넣고 Propose changes를 클릭하세요."
 }
