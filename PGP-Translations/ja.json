@@ -436,5 +436,20 @@
     "✅ Modelos instalados correctamente.\nIniciando librería...": "モデルが正常にインストールされました。\nライブラリの初期化を開始します...",
     "❌ Error al descargar:\n{0}\n\nRevisa tu conexión a internet o intenta más tarde.": "ダウンロードに失敗しました：\n{0}\n\nインターネット接続を確認してくださいまたは後で再試行してください。",
     "Descargando modelos... (Esto puede tomar unos minutos dependiendo de tu internet)": "モデルのダウンロード中... (インターネット速度によっては数分かかることがあります)",
-    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "こんにちは！メインプログラムを軽量に保つため、高度な音声エンジンは別途ダウンロードされます。インストールすると、54種類のボイスと9言語をご利用いただけます。\n\nただし、スペースを節約したい場合は、ダウンロード完了後にpiperフォルダを削除することをおすすめします。このフォルダには、Alexa、Cortana、Google アシスタントのボイスのみが含まれています。もちろん、これはあなたの選択次第です。\n\nシステムのボイスは常にデフォルトで利用可能です。"
+    "¡Hola! Para mantener el programa principal ligero, los motores de audio avanzados se descargan por separado. Al instalarlos, tendrás <b>54 voces y 9 idiomas</b> a tu disposición.<br><br>Sin embargo, si quieres ahorrar espacio, te recomiendo borrar la carpeta <b>piper</b> al finalizar la descarga, ya que solo incluye las voces de Alexa, Cortana y el Asistente de Google. Como siempre, eso depende de ti.<br><br><span style='color: #aaa;'><i>* Las voces de tu sistema siempre estarán disponibles por defecto.</i></span>": "こんにちは！メインプログラムを軽量に保つため、高度な音声エンジンは別途ダウンロードされます。インストールすると、54種類のボイスと9言語をご利用いただけます。\n\nただし、スペースを節約したい場合は、ダウンロード完了後にpiperフォルダを削除することをおすすめします。このフォルダには、Alexa、Cortana、Google アシスタントのボイスのみが含まれています。もちろん、これはあなたの選択次第です。\n\nシステムのボイスは常にデフォルトで利用可能です。",
+    "Cerrar": "閉じる",
+    "Tienda": "店舗",
+    "Subir mi Traducción": "自分の翻訳をアップロード",
+    "Ruta de imagen: {0}": "{0}",
+    "Compartir en la Tienda": "店舗で共有",
+    "Descargar Seleccionados": "選択したファイルをダウンロード",
+    "Conectando con GitHub...": "GitHubに接続中...",
+    "Tienda de Idiomas Comunitaria": "言語コミュニティショップ",
+    "Error de conexión. Revisa tu internet.": "接続エラーです。インターネット接続を確認してください。",
+    "Selecciona tu traducción para compartir": "共有するための翻訳を選択してください",
+    "Selecciona los idiomas que deseas instalar:": "インストールしたい言語を選択してください。",
+    "🔍 Buscar idioma (ej: ja, French, Español)...": "ja, フランス語, スペイン語)...",
+    "El archivo seleccionado no tiene traducciones válidas.": "選択されたファイルには有効な翻訳が含まれていません。",
+    "Lista actualizada, pero solo tienes el idioma base.\n¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "更新されたリストですが、基本言語のみです。\nコミュニティストアを開いて、追加の言語をダウンロードしますか？",
+    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "あなたの貢献が準備完了しました！\n\n1️⃣ コードがクリップボードにコピーされました。\n2️⃣ 公式フォルダがブラウザで開かれています。\n\n「Ctrl + V」を押してテキストを貼り付け、「変更を提案」をクリックしてください。"
 }
