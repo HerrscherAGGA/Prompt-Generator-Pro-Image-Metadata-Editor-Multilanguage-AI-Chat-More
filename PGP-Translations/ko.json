@@ -451,7 +451,6 @@
     "🔍 Buscar idioma (ej: ja, French, Español)...": "ja, 프랑스어, 스페인어)...",
     "El archivo seleccionado no tiene traducciones válidas.": "선택한 파일은 유효한 번역이 없습니다.",
     "Lista actualizada, pero solo tienes el idioma base.\n¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "업데이트된 목록이지만 기본 언어만 제공됩니다.\n추가 언어를 다운로드하려면 커뮤니티 스토어 열기를 원하시나요?",
-    "¡Todo listo para tu aporte!\n\n1️⃣ El código se copió a tu portapapeles.\n2️⃣ Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "당신의 기여가 준비되었습니다!\n\n1️⃣ 코드가 클립보드에 복사되었습니다.\n2️⃣ 공식 폴더가 브라우저에서 열렸습니다.\n\nCtrl + V를 눌러 텍스트를 붙여넣고 Propose changes를 클릭하세요.",
     "Buscar": "검색",
     "Instalar": "설치",
     "Ordenar A-Z": "가나다순 정렬",
@@ -530,5 +529,6 @@
     "<a href='https://huggingface.co/settings/tokens' style='color: #4da6ff;'>Obtener Token (Gratis)</a>": "토큰 받기 (무료)",
     "Lista actualizada, pero solo tienes el idioma base. ¿Deseas abrir la Tienda Comunitaria para descargar más idiomas?": "업데이트된 목록이지만 기본 언어만 제공됩니다. 추가 언어를 다운로드하려면 커뮤니티 스토어 열기를 원하시나요?",
     "Este motor es el núcleo requerido para generar imágenes de manera local, utilizando tu hardware de forma eficiente.": "이 엔진은 로컬에서 이미지를 생성하기 위한 필수 핵심으로, 효율적으로 하드웨어를 활용합니다.",
-    "Esta sección se encuentra en construcción. Por ahora, el motor GGUF es el más estable. Se ha publicado esta versión para integrar las mejoras generales y reducción de espacio. ¡Pronto terminaré el generador!": "이 섹션은 현재 개발 중입니다. 현재 GGUF 엔진이 가장 안정적입니다. 전체적인 개선과 공간 절약을 위해 이 버전을 출시했습니다. 곧 생성기 완성을 마칠 예정입니다!"
+    "Esta sección se encuentra en construcción. Por ahora, el motor GGUF es el más estable. Se ha publicado esta versión para integrar las mejoras generales y reducción de espacio. ¡Pronto terminaré el generador!": "이 섹션은 현재 개발 중입니다. 현재 GGUF 엔진이 가장 안정적입니다. 전체적인 개선과 공간 절약을 위해 이 버전을 출시했습니다. 곧 생성기 완성을 마칠 예정입니다!",
+    "¡Todo listo para tu aporte!\n\n① El código se copió a tu portapapeles.\n② Se abrió el navegador en la carpeta oficial.\n\nPresiona 'Ctrl + V' para pegar el texto y haz clic en 'Propose changes'.": "모든 준비가 완료되었습니다!\n\n1. 코드가 클립보드에 복사되었습니다.\n2. 공식 폴더가 브라우저에서 열렸습니다.\n\nCtrl + V를 눌러 텍스트를 붙여넣고 Propose changes를 클릭하세요."
 }
