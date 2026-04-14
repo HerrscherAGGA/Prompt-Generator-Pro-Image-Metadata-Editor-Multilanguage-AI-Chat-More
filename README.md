@@ -1,4 +1,4 @@
-# 🚀 Prompt Generator Pro (v3.0)
+# 🚀 Prompt Generator Pro (v4.5)
 > **The All-in-One desktop suite designed to supercharge the workflow of AI Artists (Stable Diffusion, ComfyUI, Midjourney, NovelAI).**
 
 👋 *If you like what I do and want to support the development, feel free to buy me a coffee:*
