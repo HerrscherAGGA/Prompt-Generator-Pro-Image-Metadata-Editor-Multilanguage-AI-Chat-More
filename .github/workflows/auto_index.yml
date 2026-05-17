@@ -1,0 +1,49 @@
+name: Actualizador de Fechas de Idiomas
+
+# El bot solo se despierta cuando alguien modifica un .json en la carpeta de traducciones
+on:
+  push:
+    paths:
+      - 'PGP-Translations/*.json'
+
+permissions:
+  contents: write # Le damos permiso al bot para escribir y guardar el archivo
+
+jobs:
+  generar-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necesario para poder leer el historial de fechas
+
+      - name: Crear el index_dates.json mágicamente
+        run: |
+          cd PGP-Translations
+          echo "{" > index_dates.json
+          first=true
+          for file in *.json; do
+            if [ "$file" = "index_dates.json" ]; then continue; fi
+            
+            # Extrae la fecha exacta del último cambio de ese archivo específico
+            fecha=$(git log -1 --format="%ad" --date=format:"%d/%m/%Y" -- "$file")
+            
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo "," >> index_dates.json
+            fi
+            echo -n "  \"$file\": \"$fecha\"" >> index_dates.json
+          done
+          echo "" >> index_dates.json
+          echo "}" >> index_dates.json
+
+      - name: Guardar los cambios en el repositorio
+        run: |
+          git config --global user.name "PGP Bot Automático"
+          git config --global user.email "bot@promptgeneratorpro.com"
+          git add PGP-Translations/index_dates.json
+          # El bot hace el commit solo si detectó que alguna fecha cambió
+          git commit -m "🤖 Auto-actualizar fechas de idiomas" || echo "Nada nuevo que guardar"
+          git push
