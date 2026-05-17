@@ -977,5 +977,16 @@
     " Agrega tu Key en el Tagger Studio para usar la nube...": "클라우드를 사용하려면 Tagger Studio에 키를 추가하세요...",
     " O usa directamente el 'Tagger Básico' para omitir este aviso.": "또는 '기본 태거'를 직접 사용하여 이 알림을 우회할 수도 있습니다.",
     "Imágenes": "이미지",
-    "Archivos de Medios": "미디어 파일"
+    "Archivos de Medios": "미디어 파일",
+    "Video": "동영상",
+    "Modelos": "모델",
+    "Archivos de Texto": "텍스트 파일",
+    "Archivos de Ícono": "아이콘 파일",
+    "Todos los Archivos": "모든 파일",
+    "Guardar Video Editado": "편집한 영상 저장",
+    "Guardar Imagen Editada": "편집된 이미지 저장",
+    "Selecciona un modelo (.pb / .onnx).": "모델(.pb / .onnx)을 선택하세요.",
+    "Ordenar por Largo": "길이별 정렬",
+    "Editor de Traducción": "번역 편집기",
+    "Mostrar vacías primero": "빈 항목 먼저 표시"
 }
