@@ -7,1072 +7,1286 @@
   {
     "name": "DMSans-Italic-VariableFont_opsz,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DMSans-Italic-VariableFont_opsz%2Cwght.ttf",
-    "size": 283524
+    "size": 283524,
+    "last_update": "9/7/25"
   },
   {
     "name": "DMSans-VariableFont_opsz,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DMSans-VariableFont_opsz%2Cwght.ttf",
-    "size": 238984
+    "size": 238984,
+    "last_update": "9/7/25"
   },
   {
     "name": "Dongle-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Bold.ttf",
-    "size": 4476376
+    "size": 4476376,
+    "last_update": "9/7/25"
   },
   {
     "name": "Dongle-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Light.ttf",
-    "size": 4388892
+    "size": 4388892,
+    "last_update": "9/7/25"
   },
   {
     "name": "Dongle-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Regular.ttf",
-    "size": 4458436
+    "size": 4458436,
+    "last_update": "9/7/25"
   },
   {
     "name": "DoppioOne-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DoppioOne-Regular.ttf",
-    "size": 53684
+    "size": 53684,
+    "last_update": "9/7/25"
   },
   {
     "name": "IBMPlexSans-Italic-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/IBMPlexSans-Italic-VariableFont_wdth%2Cwght.ttf",
-    "size": 594116
+    "size": 594116,
+    "last_update": "9/7/25"
   },
   {
     "name": "IBMPlexSans-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/IBMPlexSans-VariableFont_wdth%2Cwght.ttf",
-    "size": 532740
+    "size": 532740,
+    "last_update": "9/7/25"
   },
   {
     "name": "Inter-Italic-VariableFont_opsz,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Inter-Italic-VariableFont_opsz%2Cwght.ttf",
-    "size": 904532
+    "size": 904532,
+    "last_update": "9/7/25"
   },
   {
     "name": "Inter-VariableFont_opsz,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Inter-VariableFont_opsz%2Cwght.ttf",
-    "size": 874708
+    "size": 874708,
+    "last_update": "9/7/25"
   },
   {
     "name": "JetBrainsMono-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/JetBrainsMono-Bold.ttf",
-    "size": 274096
+    "size": 274096,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/JetBrainsMono-Regular.ttf",
-    "size": 270224
+    "size": 270224,
+    "last_update": "20/3/23"
   },
   {
     "name": "Jura-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Jura-VariableFont_wght.ttf",
-    "size": 259928
+    "size": 259928,
+    "last_update": "9/7/25"
   },
   {
     "name": "KosugiMaru-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/KosugiMaru-Regular.ttf",
-    "size": 3565692
+    "size": 3565692,
+    "last_update": "9/7/25"
   },
   {
     "name": "Mandali-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Mandali-Regular.ttf",
-    "size": 607268
+    "size": 607268,
+    "last_update": "9/7/25"
   },
   {
     "name": "Nunito-Italic-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Nunito-Italic-VariableFont_wght.ttf",
-    "size": 280276
+    "size": 280276,
+    "last_update": "9/7/25"
   },
   {
     "name": "Nunito-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Nunito-VariableFont_wght.ttf",
-    "size": 275644
+    "size": 275644,
+    "last_update": "9/7/25"
   },
   {
     "name": "OpenSans-Italic-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/OpenSans-Italic-VariableFont_wdth%2Cwght.ttf",
-    "size": 580280
+    "size": 580280,
+    "last_update": "9/7/25"
   },
   {
     "name": "OpenSans-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/OpenSans-VariableFont_wdth%2Cwght.ttf",
-    "size": 529700
+    "size": 529700,
+    "last_update": "9/7/25"
   },
   {
     "name": "Orbitron-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Orbitron-VariableFont_wght.ttf",
-    "size": 38548
+    "size": 38548,
+    "last_update": "9/7/25"
   },
   {
     "name": "PTSans-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Bold.ttf",
-    "size": 288340
+    "size": 288340,
+    "last_update": "9/7/25"
   },
   {
     "name": "PTSans-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-BoldItalic.ttf",
-    "size": 210224
+    "size": 210224,
+    "last_update": "9/7/25"
   },
   {
     "name": "PTSans-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Italic.ttf",
-    "size": 270920
+    "size": 270920,
+    "last_update": "9/7/25"
   },
   {
     "name": "PTSans-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Regular.ttf",
-    "size": 278612
+    "size": 278612,
+    "last_update": "9/7/25"
   },
   {
     "name": "PixelifySans-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Bold.ttf",
-    "size": 50872
+    "size": 50872,
+    "last_update": "9/7/25"
   },
   {
     "name": "PixelifySans-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Medium.ttf",
-    "size": 51072
+    "size": 51072,
+    "last_update": "9/7/25"
   },
   {
     "name": "PixelifySans-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Regular.ttf",
-    "size": 51312
+    "size": 51312,
+    "last_update": "9/7/25"
   },
   {
     "name": "PixelifySans-SemiBold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-SemiBold.ttf",
-    "size": 51100
+    "size": 51100,
+    "last_update": "9/7/25"
   },
   {
     "name": "PixelifySans-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-VariableFont_wght.ttf",
-    "size": 78372
+    "size": 78372,
+    "last_update": "9/7/25"
   },
   {
     "name": "RadioCanada-Italic-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/RadioCanada-Italic-VariableFont_wdth%2Cwght.ttf",
-    "size": 469128
+    "size": 469128,
+    "last_update": "9/7/25"
   },
   {
     "name": "RadioCanada-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/RadioCanada-VariableFont_wdth%2Cwght.ttf",
-    "size": 447576
+    "size": 447576,
+    "last_update": "9/7/25"
   },
   {
     "name": "Roboto-Italic-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Roboto-Italic-VariableFont_wdth%2Cwght.ttf",
-    "size": 497124
+    "size": 497124,
+    "last_update": "9/7/25"
   },
   {
     "name": "Roboto-VariableFont_wdth,wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Roboto-VariableFont_wdth%2Cwght.ttf",
-    "size": 468308
+    "size": 468308,
+    "last_update": "9/7/25"
   },
   {
     "name": "Silkscreen-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Silkscreen-Bold.ttf",
-    "size": 30384
+    "size": 30384,
+    "last_update": "9/7/25"
   },
   {
     "name": "Silkscreen-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Silkscreen-Regular.ttf",
-    "size": 31960
+    "size": 31960,
+    "last_update": "9/7/25"
   },
   {
     "name": "SyneMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/SyneMono-Regular.ttf",
-    "size": 70064
+    "size": 70064,
+    "last_update": "9/7/25"
   },
   {
     "name": "TsukimiRounded-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Bold.ttf",
-    "size": 107848
+    "size": 107848,
+    "last_update": "9/7/25"
   },
   {
     "name": "TsukimiRounded-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Light.ttf",
-    "size": 104808
+    "size": 104808,
+    "last_update": "9/7/25"
   },
   {
     "name": "TsukimiRounded-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Medium.ttf",
-    "size": 107448
+    "size": 107448,
+    "last_update": "9/7/25"
   },
   {
     "name": "TsukimiRounded-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Regular.ttf",
-    "size": 107764
+    "size": 107764,
+    "last_update": "9/7/25"
   },
   {
     "name": "TsukimiRounded-SemiBold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-SemiBold.ttf",
-    "size": 109064
+    "size": 109064,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Bold.ttf",
-    "size": 49396
+    "size": 49396,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-ExtraBold.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-ExtraBold.ttf",
-    "size": 50780
+    "size": 50780,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-ExtraLight.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-ExtraLight.ttf",
-    "size": 49532
+    "size": 49532,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Light.ttf",
-    "size": 49200
+    "size": 49200,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Medium.ttf",
-    "size": 49848
+    "size": 49848,
+    "last_update": "9/7/25"
   },
   {
     "name": "TurretRoad-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Regular.ttf",
-    "size": 49420
+    "size": 49420,
+    "last_update": "9/7/25"
   },
   {
     "name": "VT323-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/VT323-Regular.ttf",
-    "size": 149688
+    "size": 149688,
+    "last_update": "9/7/25"
   },
   {
     "name": "WorkSans-Italic-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/WorkSans-Italic-VariableFont_wght.ttf",
-    "size": 335056
+    "size": 335056,
+    "last_update": "9/7/25"
   },
   {
     "name": "WorkSans-VariableFont_wght.ttf",
     "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/WorkSans-VariableFont_wght.ttf",
-    "size": 359628
+    "size": 359628,
+    "last_update": "9/7/25"
   },
   {
     "name": "ARIAL.TTF",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/ARIAL.TTF",
-    "size": 1036584
+    "size": 1036584,
+    "last_update": "29/10/24"
   },
   {
     "name": "Acme 9 Regular Bold Xtnd.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Acme%209%20Regular%20Bold%20Xtnd.ttf",
-    "size": 53564
+    "size": 53564,
+    "last_update": "20/3/23"
   },
   {
     "name": "Acme 9 Regular Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Acme%209%20Regular%20Bold.ttf",
-    "size": 53604
+    "size": 53604,
+    "last_update": "20/3/23"
   },
   {
     "name": "Acme 9 Regular Xtnd.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Acme%209%20Regular%20Xtnd.ttf",
-    "size": 68904
+    "size": 68904,
+    "last_update": "20/3/23"
   },
   {
     "name": "Acme 9 Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Acme%209%20Regular.ttf",
-    "size": 69240
+    "size": 69240,
+    "last_update": "20/3/23"
   },
   {
     "name": "Anonymice Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Anonymice%20Powerline.ttf",
-    "size": 117780
+    "size": 117780,
+    "last_update": "22/8/13"
   },
   {
     "name": "Assistant-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Assistant-Regular.ttf",
-    "size": 75432
+    "size": 75432,
+    "last_update": "20/3/23"
   },
   {
     "name": "AvenirLTProBook.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/AvenirLTProBook.otf",
-    "size": 44964
+    "size": 44964,
+    "last_update": "23/1/21"
   },
   {
     "name": "BLOODY.TTF",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/BLOODY.TTF",
-    "size": 45264
+    "size": 45264,
+    "last_update": "9/1/20"
   },
   {
     "name": "Bailey.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Bailey.otf",
-    "size": 102288
+    "size": 102288,
+    "last_update": "24/8/20"
   },
   {
     "name": "CODE Bold.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/CODE%20Bold.otf",
-    "size": 24108
+    "size": 24108,
+    "last_update": "27/11/18"
   },
   {
     "name": "CODE Light.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/CODE%20Light.otf",
-    "size": 22920
+    "size": 22920,
+    "last_update": "27/11/18"
   },
   {
     "name": "CaskaydiaCoveNerdFont-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/CaskaydiaCoveNerdFont-Regular.ttf",
-    "size": 2892532
+    "size": 2892532,
+    "last_update": "17/5/25"
   },
   {
     "name": "CaskaydiaCoveNerdFontMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/CaskaydiaCoveNerdFontMono-Regular.ttf",
-    "size": 2864668
+    "size": 2864668,
+    "last_update": "17/5/25"
   },
   {
     "name": "Code New Roman Nerd Font Complete Mono.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Code%20New%20Roman%20Nerd%20Font%20Complete%20Mono.otf",
-    "size": 4303164
+    "size": 4303164,
+    "last_update": "4/1/19"
   },
   {
     "name": "Code New Roman Nerd Font Complete.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Code%20New%20Roman%20Nerd%20Font%20Complete.otf",
-    "size": 3158320
+    "size": 3158320,
+    "last_update": "4/1/19"
   },
   {
     "name": "Comfortaa-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Comfortaa-Bold.ttf",
-    "size": 134916
+    "size": 134916,
+    "last_update": "25/3/23"
   },
   {
     "name": "Comfortaa-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Comfortaa-Light.ttf",
-    "size": 135420
+    "size": 135420,
+    "last_update": "25/3/23"
   },
   {
     "name": "Comfortaa-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Comfortaa-Regular.ttf",
-    "size": 135304
+    "size": 135304,
+    "last_update": "25/3/23"
   },
   {
     "name": "Comic Gibi.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Comic%20Gibi.ttf",
-    "size": 59156
+    "size": 59156,
+    "last_update": "9/1/20"
   },
   {
     "name": "Consolas.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Consolas.ttf",
-    "size": 98504
+    "size": 98504,
+    "last_update": "22/8/13"
   },
   {
     "name": "Cousine Regular Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Cousine%20Regular%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 1123700
+    "size": 1123700,
+    "last_update": "4/1/19"
   },
   {
     "name": "Cousine Regular Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Cousine%20Regular%20Nerd%20Font%20Complete.ttf",
-    "size": 1149488
+    "size": 1149488,
+    "last_update": "4/1/19"
   },
   {
     "name": "DejaVuMathTeXGyre.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuMathTeXGyre.ttf",
-    "size": 577616
+    "size": 577616,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSans-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSans-Bold.ttf",
-    "size": 705684
+    "size": 705684,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSans-BoldOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSans-BoldOblique.ttf",
-    "size": 643288
+    "size": 643288,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSans-ExtraLight.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSans-ExtraLight.ttf",
-    "size": 356760
+    "size": 356760,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSans-Oblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSans-Oblique.ttf",
-    "size": 635412
+    "size": 635412,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSans.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSans.ttf",
-    "size": 757076
+    "size": 757076,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSansCondensed-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansCondensed-Bold.ttf",
-    "size": 703880
+    "size": 703880,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSansCondensed-BoldOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansCondensed-BoldOblique.ttf",
-    "size": 641696
+    "size": 641696,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSansCondensed-Oblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansCondensed-Oblique.ttf",
-    "size": 633824
+    "size": 633824,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSansCondensed.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansCondensed.ttf",
-    "size": 755124
+    "size": 755124,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSansMono-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansMono-Bold.ttf",
-    "size": 331992
+    "size": 331992,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVuSansMono-BoldOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansMono-BoldOblique.ttf",
-    "size": 253580
+    "size": 253580,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVuSansMono-Oblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansMono-Oblique.ttf",
-    "size": 251932
+    "size": 251932,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVuSansMono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSansMono.ttf",
-    "size": 340712
+    "size": 340712,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVuSerif-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerif-Bold.ttf",
-    "size": 356088
+    "size": 356088,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerif-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerif-BoldItalic.ttf",
-    "size": 358820
+    "size": 358820,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerif-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerif-Italic.ttf",
-    "size": 359000
+    "size": 359000,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerif.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerif.ttf",
-    "size": 380132
+    "size": 380132,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerifCondensed-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerifCondensed-Bold.ttf",
-    "size": 355220
+    "size": 355220,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerifCondensed-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerifCondensed-BoldItalic.ttf",
-    "size": 357888
+    "size": 357888,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerifCondensed-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerifCondensed-Italic.ttf",
-    "size": 358324
+    "size": 358324,
+    "last_update": "25/3/23"
   },
   {
     "name": "DejaVuSerifCondensed.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DejaVuSerifCondensed.ttf",
-    "size": 379296
+    "size": 379296,
+    "last_update": "25/3/23"
   },
   {
     "name": "Dinomik-Semibold.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Dinomik-Semibold.otf",
-    "size": 106448
+    "size": 106448,
+    "last_update": "9/1/20"
   },
   {
     "name": "Dosis-Regular.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Dosis-Regular.otf",
-    "size": 59944
+    "size": 59944,
+    "last_update": "27/11/18"
   },
   {
     "name": "Dosis-SemiBold.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Dosis-SemiBold.otf",
-    "size": 58524
+    "size": 58524,
+    "last_update": "27/11/18"
   },
   {
     "name": "DroidSans.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/DroidSans.ttf",
-    "size": 190776
+    "size": 190776,
+    "last_update": "22/8/13"
   },
   {
     "name": "Fantasque-Sans-Mono-Nerd-Font.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Fantasque-Sans-Mono-Nerd-Font.ttf",
-    "size": 1000472
+    "size": 1000472,
+    "last_update": "20/3/23"
   },
   {
     "name": "FantasqueSansMono-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FantasqueSansMono-Bold.ttf",
-    "size": 134780
+    "size": 134780,
+    "last_update": "4/1/19"
   },
   {
     "name": "FantasqueSansMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FantasqueSansMono-Regular.ttf",
-    "size": 140956
+    "size": 140956,
+    "last_update": "4/1/19"
   },
   {
     "name": "FantasqueSansMono-Regular.ttf+Powerline+Awesome.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FantasqueSansMono-Regular.ttf+Powerline+Awesome.ttf",
-    "size": 233324
+    "size": 233324,
+    "last_update": "9/1/20"
   },
   {
     "name": "Feather.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Feather.ttf",
-    "size": 81512
+    "size": 81512,
+    "last_update": "9/1/20"
   },
   {
     "name": "FiraCode-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FiraCode-Regular.ttf",
-    "size": 225332
+    "size": 225332,
+    "last_update": "27/11/18"
   },
   {
     "name": "Flappy Bird.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Flappy%20Bird.ttf",
-    "size": 6632
+    "size": 6632,
+    "last_update": "20/3/23"
   },
   {
     "name": "Font Awesome 5 Brands-Regular-400.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Font%20Awesome%205%20Brands-Regular-400.otf",
-    "size": 452520
+    "size": 452520,
+    "last_update": "25/3/23"
   },
   {
     "name": "Font Awesome 5 Duotone-Solid-900.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Font%20Awesome%205%20Duotone-Solid-900.otf",
-    "size": 1876576
+    "size": 1876576,
+    "last_update": "25/3/23"
   },
   {
     "name": "Font Awesome 5 Pro-Light-300.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Font%20Awesome%205%20Pro-Light-300.otf",
-    "size": 1380376
+    "size": 1380376,
+    "last_update": "25/3/23"
   },
   {
     "name": "Font Awesome 5 Pro-Regular-400.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Font%20Awesome%205%20Pro-Regular-400.otf",
-    "size": 1252936
+    "size": 1252936,
+    "last_update": "25/3/23"
   },
   {
     "name": "Font Awesome 5 Pro-Solid-900.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Font%20Awesome%205%20Pro-Solid-900.otf",
-    "size": 1049380
+    "size": 1049380,
+    "last_update": "25/3/23"
   },
   {
     "name": "FontAwesome.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FontAwesome.ttf",
-    "size": 23156
+    "size": 23156,
+    "last_update": "27/11/18"
   },
   {
     "name": "FontsFree-Net-Mynor2.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/FontsFree-Net-Mynor2.ttf",
-    "size": 39856
+    "size": 39856,
+    "last_update": "20/3/23"
   },
   {
     "name": "Hack Regular Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack%20Regular%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 1647284
+    "size": 1647284,
+    "last_update": "4/1/19"
   },
   {
     "name": "Hack Regular Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack%20Regular%20Nerd%20Font%20Complete.ttf",
-    "size": 1744560
+    "size": 1744560,
+    "last_update": "4/1/19"
   },
   {
     "name": "Hack-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack-Bold.ttf",
-    "size": 317628
+    "size": 317628,
+    "last_update": "27/9/15"
   },
   {
     "name": "Hack-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack-BoldItalic.ttf",
-    "size": 322288
+    "size": 322288,
+    "last_update": "25/3/23"
   },
   {
     "name": "Hack-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack-Italic.ttf",
-    "size": 316156
+    "size": 316156,
+    "last_update": "25/3/23"
   },
   {
     "name": "Hack-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hack-Regular.ttf",
-    "size": 309408
+    "size": 309408,
+    "last_update": "27/9/15"
   },
   {
     "name": "HighBillionSans-eZ1Kx.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/HighBillionSans-eZ1Kx.otf",
-    "size": 22952
+    "size": 22952,
+    "last_update": "23/1/21"
   },
   {
     "name": "Hurmit-Nerd-Font-Mono.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Hurmit-Nerd-Font-Mono.otf",
-    "size": 3295828
+    "size": 3295828,
+    "last_update": "20/3/23"
   },
   {
     "name": "Icons South St.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Icons%20South%20St.ttf",
-    "size": 15548
+    "size": 15548,
+    "last_update": "27/11/18"
   },
   {
     "name": "Impact.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Impact.ttf",
-    "size": 56936
+    "size": 56936,
+    "last_update": "29/10/24"
   },
   {
     "name": "Impact2.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Impact2.ttf",
-    "size": 56936
+    "size": 56936,
+    "last_update": "9/1/20"
   },
   {
     "name": "Inconsolata Bold for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Inconsolata%20Bold%20for%20Powerline.ttf",
-    "size": 68356
+    "size": 68356,
+    "last_update": "31/3/19"
   },
   {
     "name": "Inconsolata for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Inconsolata%20for%20Powerline.ttf",
-    "size": 82776
+    "size": 82776,
+    "last_update": "31/3/19"
   },
   {
     "name": "Inconsolata-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Inconsolata-Bold.ttf",
-    "size": 66596
+    "size": 66596,
+    "last_update": "31/3/19"
   },
   {
     "name": "Inconsolata-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Inconsolata-Regular.ttf",
-    "size": 84868
+    "size": 84868,
+    "last_update": "31/3/19"
   },
   {
     "name": "Inconsolata.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Inconsolata.otf",
-    "size": 58560
+    "size": 58560,
+    "last_update": "9/1/20"
   },
   {
     "name": "Iosevka Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Iosevka%20Nerd%20Font%20Complete.ttf",
-    "size": 1301148
+    "size": 1301148,
+    "last_update": "28/6/19"
   },
   {
     "name": "Iosevka-Nerd-Font.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Iosevka-Nerd-Font.ttf",
-    "size": 1301148
+    "size": 1301148,
+    "last_update": "20/3/23"
   },
   {
     "name": "IosevkaNerdFont-Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/IosevkaNerdFont-Complete.ttf",
-    "size": 1301148
+    "size": 1301148,
+    "last_update": "24/8/20"
   },
   {
     "name": "JetBrains Mono Bold Italic Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 916584
+    "size": 916584,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Bold Italic Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete.ttf",
-    "size": 926260
+    "size": 926260,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Bold Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 909052
+    "size": 909052,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Bold Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Bold%20Nerd%20Font%20Complete.ttf",
-    "size": 918020
+    "size": 918020,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtBd Ita Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtBd%20Ita%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 916748
+    "size": 916748,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtBd Ita Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtBd%20Ita%20Nerd%20Font%20Complete.ttf",
-    "size": 926408
+    "size": 926408,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Extra Bold Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Extra%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 909212
+    "size": 909212,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Extra Bold Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Extra%20Bold%20Nerd%20Font%20Complete.ttf",
-    "size": 918168
+    "size": 918168,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtraBold ExBd I Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtraBold%20ExBd%20I%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 919148
+    "size": 919148,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtraBold ExBd I Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtraBold%20ExBd%20I%20Nerd%20Font%20Complete.ttf",
-    "size": 928820
+    "size": 928820,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtraBold ExtBd Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtraBold%20ExtBd%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 910572
+    "size": 910572,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono ExtraBold ExtBd Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20ExtraBold%20ExtBd%20Nerd%20Font%20Complete.ttf",
-    "size": 919544
+    "size": 919544,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Italic Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 912148
+    "size": 912148,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Italic Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Italic%20Nerd%20Font%20Complete.ttf",
-    "size": 921120
+    "size": 921120,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Italic Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 914040
+    "size": 914040,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Italic Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Italic%20Nerd%20Font%20Complete.ttf",
-    "size": 923700
+    "size": 923700,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Med Ita Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Med%20Ita%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 916312
+    "size": 916312,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Med Ita Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Med%20Ita%20Nerd%20Font%20Complete.ttf",
-    "size": 925984
+    "size": 925984,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Medium Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Medium%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 908396
+    "size": 908396,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Medium Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Medium%20Nerd%20Font%20Complete.ttf",
-    "size": 917364
+    "size": 917364,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 907028
+    "size": 907028,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Medium Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Medium%20Nerd%20Font%20Complete.ttf",
-    "size": 924648
+    "size": 924648,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Regular Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 908656
+    "size": 908656,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrains Mono Regular Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf",
-    "size": 917624
+    "size": 917624,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-BoldItalic.ttf",
-    "size": 167680
+    "size": 167680,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-ExtraBold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-ExtraBold.ttf",
-    "size": 167428
+    "size": 167428,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-ExtraBoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-ExtraBoldItalic.ttf",
-    "size": 169940
+    "size": 169940,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-ExtraLight.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-ExtraLight.ttf",
-    "size": 163736
+    "size": 163736,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-ExtraLightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-ExtraLightItalic.ttf",
-    "size": 165408
+    "size": 165408,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Italic.ttf",
-    "size": 167596
+    "size": 167596,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Light.ttf",
-    "size": 164872
+    "size": 164872,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-LightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-LightItalic.ttf",
-    "size": 166860
+    "size": 166860,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Medium.ttf",
-    "size": 165484
+    "size": 165484,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-MediumItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-MediumItalic.ttf",
-    "size": 168640
+    "size": 168640,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-Thin.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Thin.ttf",
-    "size": 161688
+    "size": 161688,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMono-ThinItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-ThinItalic.ttf",
-    "size": 164476
+    "size": 164476,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Bold.ttf",
-    "size": 111008
+    "size": 111008,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-BoldItalic.ttf",
-    "size": 114176
+    "size": 114176,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-ExtraBold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-ExtraBold.ttf",
-    "size": 112040
+    "size": 112040,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-ExtraBoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-ExtraBoldItalic.ttf",
-    "size": 114580
+    "size": 114580,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-ExtraLight.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-ExtraLight.ttf",
-    "size": 110308
+    "size": 110308,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-ExtraLightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-ExtraLightItalic.ttf",
-    "size": 112596
+    "size": 112596,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Italic.ttf",
-    "size": 113512
+    "size": 113512,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Light.ttf",
-    "size": 110144
+    "size": 110144,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-LightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-LightItalic.ttf",
-    "size": 113056
+    "size": 113056,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Medium.ttf",
-    "size": 110316
+    "size": 110316,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-MediumItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-MediumItalic.ttf",
-    "size": 114272
+    "size": 114272,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Regular.ttf",
-    "size": 109088
+    "size": 109088,
+    "last_update": "24/8/20"
   },
   {
     "name": "JetBrainsMonoNL-Thin.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-Thin.ttf",
-    "size": 109084
+    "size": 109084,
+    "last_update": "20/3/23"
   },
   {
     "name": "JetBrainsMonoNL-ThinItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMonoNL-ThinItalic.ttf",
-    "size": 112148
+    "size": 112148,
+    "last_update": "20/3/23"
   },
   {
     "name": "Jua-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Jua-Regular.ttf",
-    "size": 2101520
+    "size": 2101520,
+    "last_update": "24/8/20"
   },
   {
     "name": "LANENAR_.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/LANENAR_.ttf",
-    "size": 20308
+    "size": 20308,
+    "last_update": "27/11/18"
   },
   {
     "name": "Lekton Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Lekton%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 881468
+    "size": 881468,
+    "last_update": "4/1/19"
   },
   {
     "name": "Lekton Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Lekton%20Nerd%20Font%20Complete.ttf",
-    "size": 903208
+    "size": 903208,
+    "last_update": "4/1/19"
   },
   {
     "name": "Linearicons-Free.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Linearicons-Free.ttf",
-    "size": 81644
+    "size": 81644,
+    "last_update": "24/8/20"
   },
   {
     "name": "Lucida Console.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Lucida%20Console.ttf",
-    "size": 107820
+    "size": 107820,
+    "last_update": "28/6/19"
   },
   {
     "name": "MONACO.TTF",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/MONACO.TTF",
-    "size": 65704
+    "size": 65704,
+    "last_update": "14/2/14"
   },
   {
     "name": "Mada-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Mada-Regular.ttf",
-    "size": 40316
+    "size": 40316,
+    "last_update": "20/3/23"
   },
   {
     "name": "MaterialIcons-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/MaterialIcons-Regular.ttf",
-    "size": 128180
+    "size": 128180,
+    "last_update": "27/11/18"
   },
   {
     "name": "Menlo-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Menlo-Regular.ttf",
-    "size": 475160
+    "size": 475160,
+    "last_update": "3/9/13"
   },
   {
     "name": "Menlo.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Menlo.ttf",
-    "size": 475160
+    "size": 475160,
+    "last_update": "24/8/20"
   },
   {
     "name": "Minecraft.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Minecraft.ttf",
-    "size": 14488
+    "size": 14488,
+    "last_update": "20/3/23"
   },
   {
     "name": "Minecrafter.Reg.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Minecrafter.Reg.ttf",
-    "size": 7564
+    "size": 7564,
+    "last_update": "20/3/23"
   },
   {
     "name": "Monaco%20for%20Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Monaco%20for%20Powerline.ttf",
-    "size": 55936
+    "size": 55936,
+    "last_update": "9/1/20"
   },
   {
     "name": "MonacoB.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/MonacoB.otf",
-    "size": 142544
+    "size": 142544,
+    "last_update": "9/1/20"
   },
   {
     "name": "MonospaceTypewriter.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/MonospaceTypewriter.ttf",
-    "size": 38748
+    "size": 38748,
+    "last_update": "9/1/20"
   },
   {
     "name": "Nasa.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Nasa.ttf",
-    "size": 24320
+    "size": 24320,
+    "last_update": "9/1/20"
   },
   {
     "name": "Noto Emoji Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Noto%20Emoji%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 1273460
+    "size": 1273460,
+    "last_update": "8/4/19"
   },
   {
     "name": "Noto Emoji Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Noto%20Emoji%20Nerd%20Font%20Complete.ttf",
-    "size": 1261972
+    "size": 1261972,
+    "last_update": "8/4/19"
   },
   {
     "name": "NotoColorEmoji.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoColorEmoji.ttf",
-    "size": 7297112
+    "size": 7297112,
+    "last_update": "20/3/23"
   },
   {
     "name": "NotoMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoMono-Regular.ttf",
-    "size": 107848
+    "size": 107848,
+    "last_update": "27/11/18"
   },
   {
     "name": "NotoSans-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoSans-Bold.ttf",
-    "size": 398652
+    "size": 398652,
+    "last_update": "25/3/23"
   },
   {
     "name": "NotoSans-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoSans-BoldItalic.ttf",
-    "size": 285736
+    "size": 285736,
+    "last_update": "25/3/23"
   },
   {
     "name": "NotoSans-Condensed.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoSans-Condensed.ttf",
-    "size": 450924
+    "size": 450924,
+    "last_update": "27/11/18"
   },
   {
     "name": "NotoSans-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoSans-Italic.ttf",
-    "size": 274624
+    "size": 274624,
+    "last_update": "25/3/23"
   },
   {
     "name": "NotoSans-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/NotoSans-Regular.ttf",
-    "size": 398968
+    "size": 398968,
+    "last_update": "25/3/23"
   },
   {
     "name": "Nunito-Regular_86e5ddd0f903c0f84a75bf38c6c5be46.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Nunito-Regular_86e5ddd0f903c0f84a75bf38c6c5be46.ttf",
-    "size": 114012
+    "size": 114012,
+    "last_update": "21/11/20"
   },
   {
     "name": "Nunito-SemiBoldItalic_2c52afde98f2abad8b957838ddf10be8.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Nunito-SemiBoldItalic_2c52afde98f2abad8b957838ddf10be8.ttf",
-    "size": 117240
+    "size": 117240,
+    "last_update": "21/11/20"
   },
   {
     "name": "Olivia-Regular.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Olivia-Regular.otf",
-    "size": 50732
+    "size": 50732,
+    "last_update": "31/3/19"
   },
   {
     "name": "ProFont IIx Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/ProFont%20IIx%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 824972
+    "size": 824972,
+    "last_update": "4/1/19"
   },
   {
     "name": "ProFont IIx Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/ProFont%20IIx%20Nerd%20Font%20Complete.ttf",
-    "size": 831772
+    "size": 831772,
+    "last_update": "4/1/19"
   },
   {
     "name": "ProFontWindows.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/ProFontWindows.ttf",
-    "size": 56376
+    "size": 56376,
+    "last_update": "31/3/19"
   },
   {
     "name": "Rene Bieder  Milliard Black.otf",
@@ -1097,2786 +1311,3343 @@
   {
     "name": "Robot Crush Italic.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Robot%20Crush%20Italic.otf",
-    "size": 16380
+    "size": 16380,
+    "last_update": "25/3/23"
   },
   {
     "name": "Robot Crush Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Robot%20Crush%20Italic.ttf",
-    "size": 16380
+    "size": 16380,
+    "last_update": "25/3/23"
   },
   {
     "name": "Robot Crush.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Robot%20Crush.otf",
-    "size": 15484
+    "size": 15484,
+    "last_update": "25/3/23"
   },
   {
     "name": "Robot Crush.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Robot%20Crush.ttf",
-    "size": 15484
+    "size": 15484,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto Mono Medium Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto%20Mono%20Medium%20Nerd%20Font%20Complete.ttf",
-    "size": 955996
+    "size": 955996,
+    "last_update": "9/1/20"
   },
   {
     "name": "Roboto Mono Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto%20Mono%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 944624
+    "size": 944624,
+    "last_update": "4/1/19"
   },
   {
     "name": "Roboto Mono Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto%20Mono%20Nerd%20Font%20Complete.ttf",
-    "size": 960484
+    "size": 960484,
+    "last_update": "4/1/19"
   },
   {
     "name": "Roboto Mono for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto%20Mono%20for%20Powerline.ttf",
-    "size": 114680
+    "size": 114680,
+    "last_update": "9/1/20"
   },
   {
     "name": "Roboto-Black.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Black.ttf",
-    "size": 289480
+    "size": 289480,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-BlackItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-BlackItalic.ttf",
-    "size": 310260
+    "size": 310260,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Bold.ttf",
-    "size": 288872
+    "size": 288872,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-BoldItalic.ttf",
-    "size": 312608
+    "size": 312608,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Italic.ttf",
-    "size": 311960
+    "size": 311960,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Light.ttf",
-    "size": 291788
+    "size": 291788,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-LightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-LightItalic.ttf",
-    "size": 315360
+    "size": 315360,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Medium.ttf",
-    "size": 289080
+    "size": 289080,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-MediumItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-MediumItalic.ttf",
-    "size": 309776
+    "size": 309776,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Regular.ttf",
-    "size": 292752
+    "size": 292752,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-Thin.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-Thin.ttf",
-    "size": 294860
+    "size": 294860,
+    "last_update": "25/3/23"
   },
   {
     "name": "Roboto-ThinItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Roboto-ThinItalic.ttf",
-    "size": 314240
+    "size": 314240,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-Bold.ttf",
-    "size": 285996
+    "size": 285996,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-BoldItalic.ttf",
-    "size": 306884
+    "size": 306884,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-Italic.ttf",
-    "size": 309776
+    "size": 309776,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-Light.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-Light.ttf",
-    "size": 286564
+    "size": 286564,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-LightItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-LightItalic.ttf",
-    "size": 311400
+    "size": 311400,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoCondensed-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoCondensed-Regular.ttf",
-    "size": 287876
+    "size": 287876,
+    "last_update": "25/3/23"
   },
   {
     "name": "RobotoMono-Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoMono-Medium.ttf",
-    "size": 113524
+    "size": 113524,
+    "last_update": "9/1/20"
   },
   {
     "name": "RobotoMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/RobotoMono-Regular.ttf",
-    "size": 113500
+    "size": 113500,
+    "last_update": "27/11/18"
   },
   {
     "name": "SFMono-Heavy.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/SFMono-Heavy.otf",
-    "size": 87452
+    "size": 87452,
+    "last_update": "9/1/20"
   },
   {
     "name": "SFMono-Medium.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/SFMono-Medium.otf",
-    "size": 94216
+    "size": 94216,
+    "last_update": "9/1/20"
   },
   {
     "name": "SFMono-Regular.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/SFMono-Regular.otf",
-    "size": 93944
+    "size": 93944,
+    "last_update": "9/1/20"
   },
   {
     "name": "Sauce Code Pro Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 950536
+    "size": 950536,
+    "last_update": "4/1/19"
   },
   {
     "name": "Signature of the Ancient.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Signature%20of%20the%20Ancient.ttf",
-    "size": 59624
+    "size": 59624,
+    "last_update": "31/3/19"
   },
   {
     "name": "SpaceMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/SpaceMono-Regular.ttf",
-    "size": 93252
+    "size": 93252,
+    "last_update": "27/11/18"
   },
   {
     "name": "Starjedi.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Starjedi.ttf",
-    "size": 46512
+    "size": 46512,
+    "last_update": "27/11/18"
   },
   {
     "name": "Starjhol.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Starjhol.ttf",
-    "size": 69764
+    "size": 69764,
+    "last_update": "27/11/18"
   },
   {
     "name": "Symbols Template 1000 em.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Symbols%20Template%201000%20em.ttf",
-    "size": 1652
+    "size": 1652,
+    "last_update": "27/11/18"
   },
   {
     "name": "Symbols Template 2048 em.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Symbols%20Template%202048%20em.ttf",
-    "size": 1664
+    "size": 1664,
+    "last_update": "27/11/18"
   },
   {
     "name": "Symbols-1000-em Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Symbols-1000-em%20Nerd%20Font%20Complete.ttf",
-    "size": 787676
+    "size": 787676,
+    "last_update": "27/11/18"
   },
   {
     "name": "Symbols-2048-em Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Symbols-2048-em%20Nerd%20Font%20Complete.ttf",
-    "size": 846092
+    "size": 846092,
+    "last_update": "27/11/18"
   },
   {
     "name": "Technology-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Technology-Bold.ttf",
-    "size": 41392
+    "size": 41392,
+    "last_update": "25/3/23"
   },
   {
     "name": "Technology-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Technology-BoldItalic.ttf",
-    "size": 27988
+    "size": 27988,
+    "last_update": "25/3/23"
   },
   {
     "name": "Technology-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Technology-Italic.ttf",
-    "size": 21084
+    "size": 21084,
+    "last_update": "25/3/23"
   },
   {
     "name": "Technology.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Technology.ttf",
-    "size": 25384
+    "size": 25384,
+    "last_update": "25/3/23"
   },
   {
     "name": "Terminess (TTF) Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 858304
+    "size": 858304,
+    "last_update": "4/1/19"
   },
   {
     "name": "Terminess (TTF) Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf",
-    "size": 878504
+    "size": 878504,
+    "last_update": "4/1/19"
   },
   {
     "name": "TerminusTTF-4.40.1.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/TerminusTTF-4.40.1.ttf",
-    "size": 423992
+    "size": 423992,
+    "last_update": "27/11/18"
   },
   {
     "name": "TerminusTTF-Bold-4.40.1.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/TerminusTTF-Bold-4.40.1.ttf",
-    "size": 424564
+    "size": 424564,
+    "last_update": "27/11/18"
   },
   {
     "name": "TypoGraphica_demo.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/TypoGraphica_demo.otf",
-    "size": 33632
+    "size": 33632,
+    "last_update": "25/3/23"
   },
   {
     "name": "Ubuntu Mono Bold Nerd Font Complete Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Ubuntu%20Mono%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
-    "size": 943916
+    "size": 943916,
+    "last_update": "4/1/19"
   },
   {
     "name": "Ubuntu Mono Bold Nerd Font Complete.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Ubuntu%20Mono%20Bold%20Nerd%20Font%20Complete.ttf",
-    "size": 964148
+    "size": 964148,
+    "last_update": "4/1/19"
   },
   {
     "name": "Ubuntu-B.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Ubuntu-B.ttf",
-    "size": 333612
+    "size": 333612,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-C.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Ubuntu-C.ttf",
-    "size": 350444
+    "size": 350444,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-R.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Ubuntu-R.ttf",
-    "size": 353824
+    "size": 353824,
+    "last_update": "14/2/14"
   },
   {
     "name": "UbuntuMono-R.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/UbuntuMono-R.ttf",
-    "size": 205748
+    "size": 205748,
+    "last_update": "14/2/14"
   },
   {
     "name": "Vegan Style Personal Use.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/Vegan%20Style%20Personal%20Use.ttf",
-    "size": 196432
+    "size": 196432,
+    "last_update": "31/3/19"
   },
   {
     "name": "andarilho-font.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/andarilho-font.ttf",
-    "size": 23268
+    "size": 23268,
+    "last_update": "25/3/23"
   },
   {
     "name": "arial.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/arial.ttf",
-    "size": 18444
+    "size": 18444,
+    "last_update": "29/10/24"
   },
   {
     "name": "consolas.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/consolas.ttf",
-    "size": 356532
+    "size": 356532,
+    "last_update": "22/8/13"
   },
   {
     "name": "devicons.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/devicons.ttf",
-    "size": 125484
+    "size": 125484,
+    "last_update": "23/1/21"
   },
   {
     "name": "emojione-android.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/emojione-android.ttf",
-    "size": 19316880
+    "size": 19316880,
+    "last_update": "20/3/23"
   },
   {
     "name": "feather.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/feather.ttf",
-    "size": 61920
+    "size": 61920,
+    "last_update": "9/1/20"
   },
   {
     "name": "font-awesome-extension.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/font-awesome-extension.ttf",
-    "size": 49316
+    "size": 49316,
+    "last_update": "27/11/18"
   },
   {
     "name": "font-logos.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/font-logos.ttf",
-    "size": 15156
+    "size": 15156,
+    "last_update": "27/11/18"
   },
   {
     "name": "icomoon-feather.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/icomoon-feather.ttf",
-    "size": 65208
+    "size": 65208,
+    "last_update": "28/6/19"
   },
   {
     "name": "icomoon.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/icomoon.ttf",
-    "size": 38148
+    "size": 38148,
+    "last_update": "27/11/18"
   },
   {
     "name": "icomoon_fa.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/icomoon_fa.ttf",
-    "size": 145308
+    "size": 145308,
+    "last_update": "9/1/20"
   },
   {
     "name": "icons.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/icons.ttf",
-    "size": 122092
+    "size": 122092,
+    "last_update": "27/11/18"
   },
   {
     "name": "iosevka-orw-medium.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/iosevka-orw-medium.ttf",
-    "size": 410240
+    "size": 410240,
+    "last_update": "9/1/20"
   },
   {
     "name": "iosevka-orw-mediumitalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/iosevka-orw-mediumitalic.ttf",
-    "size": 423260
+    "size": 423260,
+    "last_update": "9/1/20"
   },
   {
     "name": "iosevka-orw-mediumoblique.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/iosevka-orw-mediumoblique.ttf",
-    "size": 422520
+    "size": 422520,
+    "last_update": "9/1/20"
   },
   {
     "name": "iosevka-orw-regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/iosevka-orw-regular.ttf",
-    "size": 412760
+    "size": 412760,
+    "last_update": "9/1/20"
   },
   {
     "name": "iosevka-regular.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/iosevka-regular.ttf",
-    "size": 261036
+    "size": 261036,
+    "last_update": "4/11/15"
   },
   {
     "name": "itckabelstd-bold.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/itckabelstd-bold.otf",
-    "size": 28660
+    "size": 28660,
+    "last_update": "25/3/23"
   },
   {
     "name": "luxisb.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/luxisb.ttf",
-    "size": 69972
+    "size": 69972,
+    "last_update": "27/11/18"
   },
   {
     "name": "luxisbi.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/luxisbi.ttf",
-    "size": 65568
+    "size": 65568,
+    "last_update": "27/11/18"
   },
   {
     "name": "luxisr.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/luxisr.ttf",
-    "size": 67548
+    "size": 67548,
+    "last_update": "27/11/18"
   },
   {
     "name": "luxisri.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/luxisri.ttf",
-    "size": 66372
+    "size": 66372,
+    "last_update": "27/11/18"
   },
   {
     "name": "materialdesignicons-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/materialdesignicons-webfont.ttf",
-    "size": 960412
+    "size": 960412,
+    "last_update": "25/3/23"
   },
   {
     "name": "octicons.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/octicons.ttf",
-    "size": 43920
+    "size": 43920,
+    "last_update": "27/11/18"
   },
   {
     "name": "orw_fi.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/orw_fi.ttf",
-    "size": 61664
+    "size": 61664,
+    "last_update": "9/1/20"
   },
   {
     "name": "teen.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/teen.ttf",
-    "size": 74788
+    "size": 74788,
+    "last_update": "23/1/21"
   },
   {
     "name": "weathericons-regular-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/weathericons-regular-webfont.ttf",
-    "size": 99564
+    "size": 99564,
+    "last_update": "27/11/18"
   },
   {
     "name": "whitneybook.otf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/whitneybook.otf",
-    "size": 27108
+    "size": 27108,
+    "last_update": "23/1/21"
   },
   {
     "name": "alk-life-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-life-webfont.ttf",
-    "size": 106876
+    "size": 106876,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-rex-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-rex-bold-webfont.ttf",
-    "size": 56344
+    "size": 56344,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-rounded-mtav-med-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-rounded-mtav-med-webfont.ttf",
-    "size": 73004
+    "size": 73004,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-rounded-nusx-med-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-rounded-nusx-med-webfont.ttf",
-    "size": 72672
+    "size": 72672,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-sanet-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-sanet-webfont.ttf",
-    "size": 29268
+    "size": 29268,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-tall-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-tall-mtavruli-webfont.ttf",
-    "size": 60816
+    "size": 60816,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-tall-nusxuri-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-tall-nusxuri-webfont.ttf",
-    "size": 60840
+    "size": 60840,
+    "last_update": "31/1/16"
   },
   {
     "name": "alk-tommaso-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alk-tommaso-webfont.ttf",
-    "size": 71028
+    "size": 71028,
+    "last_update": "31/1/16"
   },
   {
     "name": "alkbasri-light-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alkbasri-light-webfont.ttf",
-    "size": 27776
+    "size": 27776,
+    "last_update": "31/1/16"
   },
   {
     "name": "alkdots-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/alkdots-webfont.ttf",
-    "size": 98768
+    "size": 98768,
+    "last_update": "31/1/16"
   },
   {
     "name": "archyedt-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/archyedt-bold-webfont.ttf",
-    "size": 120672
+    "size": 120672,
+    "last_update": "31/1/16"
   },
   {
     "name": "archyedt-thin-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/archyedt-thin-webfont.ttf",
-    "size": 120412
+    "size": 120412,
+    "last_update": "31/1/16"
   },
   {
     "name": "arial-geo-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/arial-geo-bold-webfont.ttf",
-    "size": 157592
+    "size": 157592,
+    "last_update": "31/1/16"
   },
   {
     "name": "arial-geo-bolditalic-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/arial-geo-bolditalic-webfont.ttf",
-    "size": 181148
+    "size": 181148,
+    "last_update": "31/1/16"
   },
   {
     "name": "arial-geo-italic-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/arial-geo-italic-webfont.ttf",
-    "size": 185544
+    "size": 185544,
+    "last_update": "31/1/16"
   },
   {
     "name": "arial-geo-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/arial-geo-webfont.ttf",
-    "size": 157988
+    "size": 157988,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-algeti-compact-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-algeti-compact-webfont.ttf",
-    "size": 363400
+    "size": 363400,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-algeti-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-algeti-webfont.ttf",
-    "size": 363552
+    "size": 363552,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-arial-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-arial-caps-webfont.ttf",
-    "size": 156556
+    "size": 156556,
+    "last_update": "25/2/16"
   },
   {
     "name": "bpg-arial-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-arial-webfont.ttf",
-    "size": 343812
+    "size": 343812,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-caps-webfont.ttf",
-    "size": 45500
+    "size": 45500,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-extrasquare-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-extrasquare-caps-webfont.ttf",
-    "size": 44604
+    "size": 44604,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-extrasquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-extrasquare-webfont.ttf",
-    "size": 44464
+    "size": 44464,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-quadrosquare-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-quadrosquare-caps-webfont.ttf",
-    "size": 44584
+    "size": 44584,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-quadrosquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-quadrosquare-webfont.ttf",
-    "size": 44508
+    "size": 44508,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-supersquare-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-supersquare-caps-webfont.ttf",
-    "size": 45624
+    "size": 45624,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-supersquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-supersquare-webfont.ttf",
-    "size": 45676
+    "size": 45676,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-banner-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-banner-webfont.ttf",
-    "size": 45348
+    "size": 45348,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-boxo-boxo-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-boxo-boxo-webfont.ttf",
-    "size": 35972
+    "size": 35972,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-boxo-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-boxo-webfont.ttf",
-    "size": 36188
+    "size": 36188,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-classic-medium-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-classic-medium-webfont.ttf",
-    "size": 46248
+    "size": 46248,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-dedaena-block-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-dedaena-block-webfont.ttf",
-    "size": 88184
+    "size": 88184,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-dedaena-nonblock-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-dedaena-nonblock-webfont.ttf",
-    "size": 48740
+    "size": 48740,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-extrasquare-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-extrasquare-mtavruli-webfont.ttf",
-    "size": 46664
+    "size": 46664,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-extrasquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-extrasquare-webfont.ttf",
-    "size": 46440
+    "size": 46440,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-arial-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-arial-webfont.ttf",
-    "size": 345620
+    "size": 345620,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-bold-webfont.ttf",
-    "size": 66684
+    "size": 66684,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-traditional-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-traditional-webfont.ttf",
-    "size": 53004
+    "size": 53004,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-web-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-web-caps-webfont.ttf",
-    "size": 41508
+    "size": 41508,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-web-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-web-webfont.ttf",
-    "size": 44344
+    "size": 44344,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-glaho-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-glaho-webfont.ttf",
-    "size": 62180
+    "size": 62180,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-ingiri-arial-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-ingiri-arial-webfont.ttf",
-    "size": 349524
+    "size": 349524,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-ingiri-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-ingiri-webfont.ttf",
-    "size": 135332
+    "size": 135332,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-irubaqidze-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-irubaqidze-webfont.ttf",
-    "size": 61244
+    "size": 61244,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-le-studio-02-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-le-studio-02-caps-webfont.ttf",
-    "size": 45312
+    "size": 45312,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-le-studio-02-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-le-studio-02-webfont.ttf",
-    "size": 45312
+    "size": 45312,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-le-studio-04-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-le-studio-04-caps-webfont.ttf",
-    "size": 46504
+    "size": 46504,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-le-studio-04-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-le-studio-04-webfont.ttf",
-    "size": 46128
+    "size": 46128,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-mikheil-stefane-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-mikheil-stefane-webfont.ttf",
-    "size": 56932
+    "size": 56932,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-mrgvlovani-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-mrgvlovani-caps-webfont.ttf",
-    "size": 185956
+    "size": 185956,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-mrgvlovani-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-mrgvlovani-webfont.ttf",
-    "size": 185296
+    "size": 185296,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nateli-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nateli-mtavruli-webfont.ttf",
-    "size": 97256
+    "size": 97256,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nateli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nateli-webfont.ttf",
-    "size": 106952
+    "size": 106952,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-caps-webfont.ttf",
-    "size": 80092
+    "size": 80092,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-cond-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-cond-caps-webfont.ttf",
-    "size": 81696
+    "size": 81696,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-cond-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-cond-webfont.ttf",
-    "size": 82912
+    "size": 82912,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-exp-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-exp-caps-webfont.ttf",
-    "size": 84208
+    "size": 84208,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-exp-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-exp-webfont.ttf",
-    "size": 82532
+    "size": 82532,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-round-cond-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-round-cond-webfont.ttf",
-    "size": 82032
+    "size": 82032,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-round-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-round-webfont.ttf",
-    "size": 79600
+    "size": 79600,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-ultra-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-ultra-caps-webfont.ttf",
-    "size": 84680
+    "size": 84680,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-ultra-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-ultra-webfont.ttf",
-    "size": 85216
+    "size": 85216,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-elite-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-elite-webfont.ttf",
-    "size": 81396
+    "size": 81396,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-medium-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-medium-caps-webfont.ttf",
-    "size": 76244
+    "size": 76244,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-medium-condenced-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-medium-condenced-webfont.ttf",
-    "size": 80648
+    "size": 80648,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-medium-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-medium-webfont.ttf",
-    "size": 77432
+    "size": 77432,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mkhedruli-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mkhedruli-bold-webfont.ttf",
-    "size": 44040
+    "size": 44040,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mkhedruli-book-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mkhedruli-book-webfont.ttf",
-    "size": 42524
+    "size": 42524,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mkhedruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mkhedruli-webfont.ttf",
-    "size": 38896
+    "size": 38896,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mtavruli-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mtavruli-bold-webfont.ttf",
-    "size": 43224
+    "size": 43224,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mtavruli-book-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mtavruli-book-webfont.ttf",
-    "size": 43528
+    "size": 43528,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nino-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nino-mtavruli-webfont.ttf",
-    "size": 41012
+    "size": 41012,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-no9-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-no9-webfont.ttf",
-    "size": 40568
+    "size": 40568,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nostalgia-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nostalgia-bold-webfont.ttf",
-    "size": 77148
+    "size": 77148,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nostalgia-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nostalgia-webfont.ttf",
-    "size": 66952
+    "size": 66952,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-nuskha-modern-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-nuskha-modern-webfont.ttf",
-    "size": 90236
+    "size": 90236,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-paragraph-chveulebrivi-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-paragraph-chveulebrivi-webfont.ttf",
-    "size": 57356
+    "size": 57356,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-phone-sans-bold-italic-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-phone-sans-bold-italic-webfont.ttf",
-    "size": 101648
+    "size": 101648,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-phone-sans-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-phone-sans-bold-webfont.ttf",
-    "size": 90592
+    "size": 90592,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-phone-sans-italic-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-phone-sans-italic-webfont.ttf",
-    "size": 97816
+    "size": 97816,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-phone-sans-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-phone-sans-webfont.ttf",
-    "size": 86004
+    "size": 86004,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-quadrosquare-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-quadrosquare-2013-webfont.ttf",
-    "size": 41740
+    "size": 41740,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-quadrosquare-caps-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-quadrosquare-caps-2013-webfont.ttf",
-    "size": 41808
+    "size": 41808,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-quadrosquare-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-quadrosquare-mtavruli-webfont.ttf",
-    "size": 46256
+    "size": 46256,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-quadrosquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-quadrosquare-webfont.ttf",
-    "size": 46036
+    "size": 46036,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-arial-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-arial-webfont.ttf",
-    "size": 316512
+    "size": 316512,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-contrast-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-contrast-webfont.ttf",
-    "size": 61360
+    "size": 61360,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-vera-condensed-light-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-vera-condensed-light-webfont.ttf",
-    "size": 72648
+    "size": 72648,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-vera-light-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-vera-light-webfont.ttf",
-    "size": 70624
+    "size": 70624,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-vera-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-vera-webfont.ttf",
-    "size": 64668
+    "size": 64668,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-rioni-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-rioni-webfont.ttf",
-    "size": 57228
+    "size": 57228,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-sans-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-sans-webfont.ttf",
-    "size": 73112
+    "size": 73112,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-square-banner-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-square-banner-2013-webfont.ttf",
-    "size": 44428
+    "size": 44428,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-square-banner-caps-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-square-banner-caps-2013-webfont.ttf",
-    "size": 44344
+    "size": 44344,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-square-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-square-mtavruli-webfont.ttf",
-    "size": 47724
+    "size": 47724,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-square-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-square-webfont.ttf",
-    "size": 47476
+    "size": 47476,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-supersquare-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-supersquare-2013-webfont.ttf",
-    "size": 43084
+    "size": 43084,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-supersquare-caps-2013-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-supersquare-caps-2013-webfont.ttf",
-    "size": 42676
+    "size": 42676,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-supersquare-mtavruli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-supersquare-mtavruli-webfont.ttf",
-    "size": 47700
+    "size": 47700,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-supersquare-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-supersquare-webfont.ttf",
-    "size": 47564
+    "size": 47564,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-ucnobi-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-ucnobi-webfont.ttf",
-    "size": 72800
+    "size": 72800,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-venuri-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-venuri-webfont.ttf",
-    "size": 51876
+    "size": 51876,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-web-001-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-web-001-caps-webfont.ttf",
-    "size": 42852
+    "size": 42852,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-web-001-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-web-001-webfont.ttf",
-    "size": 43272
+    "size": 43272,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-web-002-caps-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-web-002-caps-webfont.ttf",
-    "size": 51312
+    "size": 51312,
+    "last_update": "31/1/16"
   },
   {
     "name": "bpg-web-002-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/bpg-web-002-webfont.ttf",
-    "size": 51212
+    "size": 51212,
+    "last_update": "31/1/16"
   },
   {
     "name": "dejavu-sans-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-bold-webfont.ttf",
-    "size": 952408
+    "size": 952408,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-condensed-bold-oblique-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-condensed-bold-oblique-webfont.ttf",
-    "size": 901088
+    "size": 901088,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-condensed-bold-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-condensed-bold-webfont.ttf",
-    "size": 949252
+    "size": 949252,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-condensed-oblique-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-condensed-oblique-webfont.ttf",
-    "size": 916972
+    "size": 916972,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-condensed-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-condensed-webfont.ttf",
-    "size": 792920
+    "size": 792920,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-extra-light-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-extra-light-webfont.ttf",
-    "size": 366840
+    "size": 366840,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-oblique-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-oblique-webfont.ttf",
-    "size": 917584
+    "size": 917584,
+    "last_update": "28/3/16"
   },
   {
     "name": "dejavu-sans-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/dejavu-sans-webfont.ttf",
-    "size": 168992
+    "size": 168992,
+    "last_update": "31/1/16"
   },
   {
     "name": "gugeshashvili-rachveli-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/gugeshashvili-rachveli-webfont.ttf",
-    "size": 39164
+    "size": 39164,
+    "last_update": "31/1/16"
   },
   {
     "name": "ka-kolheti-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/ka-kolheti-webfont.ttf",
-    "size": 45900
+    "size": 45900,
+    "last_update": "31/1/16"
   },
   {
     "name": "ka-lortkipanidze-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/ka-lortkipanidze-webfont.ttf",
-    "size": 41428
+    "size": 41428,
+    "last_update": "31/1/16"
   },
   {
     "name": "mg-bitneon-chaos-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/mg-bitneon-chaos-webfont.ttf",
-    "size": 49204
+    "size": 49204,
+    "last_update": "31/1/16"
   },
   {
     "name": "mg-bitneon-hollow-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/mg-bitneon-hollow-webfont.ttf",
-    "size": 83624
+    "size": 83624,
+    "last_update": "31/1/16"
   },
   {
     "name": "mg-bitneon-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/mg-bitneon-webfont.ttf",
-    "size": 45944
+    "size": 45944,
+    "last_update": "31/1/16"
   },
   {
     "name": "mg-glaho-drunk-webfont.ttf",
     "download_url": "https://raw.githubusercontent.com/web-fonts/ttf/master/mg-glaho-drunk-webfont.ttf",
-    "size": 56280
+    "size": 56280,
+    "last_update": "31/1/16"
   },
   {
     "name": "AlBayan.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/AlBayan.ttf",
-    "size": 86260
+    "size": 86260,
+    "last_update": "14/2/14"
   },
   {
     "name": "AlBayanBold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/AlBayanBold.ttf",
-    "size": 86028
+    "size": 86028,
+    "last_update": "14/2/14"
   },
   {
     "name": "Andale Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Andale%20Mono.ttf",
-    "size": 109700
+    "size": 109700,
+    "last_update": "14/2/14"
   },
   {
     "name": "AndaleMono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/AndaleMono.ttf",
-    "size": 56592
+    "size": 56592,
+    "last_update": "22/8/13"
   },
   {
     "name": "Anonymice Powerline Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Anonymice%20Powerline%20Bold%20Italic.ttf",
-    "size": 101704
+    "size": 101704,
+    "last_update": "22/8/13"
   },
   {
     "name": "Anonymice Powerline Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Anonymice%20Powerline%20Bold.ttf",
-    "size": 113348
+    "size": 113348,
+    "last_update": "22/8/13"
   },
   {
     "name": "Anonymice Powerline Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Anonymice%20Powerline%20Italic.ttf",
-    "size": 104192
+    "size": 104192,
+    "last_update": "22/8/13"
   },
   {
     "name": "Apple Braille Outline 6 Dot.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Braille%20Outline%206%20Dot.ttf",
-    "size": 263912
+    "size": 263912,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Braille Outline 8 Dot.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Braille%20Outline%208%20Dot.ttf",
-    "size": 280980
+    "size": 280980,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Braille Pinpoint 6 Dot.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Braille%20Pinpoint%206%20Dot.ttf",
-    "size": 183080
+    "size": 183080,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Braille Pinpoint 8 Dot.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Braille%20Pinpoint%208%20Dot.ttf",
-    "size": 189668
+    "size": 189668,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Braille.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Braille.ttf",
-    "size": 135960
+    "size": 135960,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Chancery.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Chancery.ttf",
-    "size": 335572
+    "size": 335572,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Color Emoji.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Color%20Emoji.ttf",
-    "size": 35944652
+    "size": 35944652,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple LiGothic Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20LiGothic%20Medium.ttf",
-    "size": 5802828
+    "size": 5802828,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple LiSung Light.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20LiSung%20Light.ttf",
-    "size": 8881092
+    "size": 8881092,
+    "last_update": "14/2/14"
   },
   {
     "name": "Apple Symbols.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Apple%20Symbols.ttf",
-    "size": 3751680
+    "size": 3751680,
+    "last_update": "14/2/14"
   },
   {
     "name": "AppleGothic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/AppleGothic.ttf",
-    "size": 15600596
+    "size": 15600596,
+    "last_update": "14/2/14"
   },
   {
     "name": "AppleMyungjo.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/AppleMyungjo.ttf",
-    "size": 19108764
+    "size": 19108764,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Black.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Black.ttf",
-    "size": 122556
+    "size": 122556,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Bold%20Italic.ttf",
-    "size": 558672
+    "size": 558672,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Bold.ttf",
-    "size": 750984
+    "size": 750984,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Italic.ttf",
-    "size": 553284
+    "size": 553284,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Narrow Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Narrow%20Bold%20Italic.ttf",
-    "size": 183932
+    "size": 183932,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Narrow Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Narrow%20Bold.ttf",
-    "size": 184420
+    "size": 184420,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Narrow Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Narrow%20Italic.ttf",
-    "size": 184944
+    "size": 184944,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Narrow.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Narrow.ttf",
-    "size": 179492
+    "size": 179492,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Rounded Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Rounded%20Bold.ttf",
-    "size": 49296
+    "size": 49296,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial Unicode.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial%20Unicode.ttf",
-    "size": 23278008
+    "size": 23278008,
+    "last_update": "14/2/14"
   },
   {
     "name": "Arial.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Arial.ttf",
-    "size": 773236
+    "size": 773236,
+    "last_update": "29/10/24"
   },
   {
     "name": "Ayuthaya.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ayuthaya.ttf",
-    "size": 305552
+    "size": 305552,
+    "last_update": "14/2/14"
   },
   {
     "name": "BPmono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BPmono.ttf",
-    "size": 99960
+    "size": 99960,
+    "last_update": "14/2/14"
   },
   {
     "name": "BPmonoBold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BPmonoBold.ttf",
-    "size": 57284
+    "size": 57284,
+    "last_update": "14/2/14"
   },
   {
     "name": "BPmonoBoldStencil.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BPmonoBoldStencil.ttf",
-    "size": 58816
+    "size": 58816,
+    "last_update": "14/2/14"
   },
   {
     "name": "BPmonoItalics.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BPmonoItalics.ttf",
-    "size": 43184
+    "size": 43184,
+    "last_update": "14/2/14"
   },
   {
     "name": "Baghdad.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Baghdad.ttf",
-    "size": 103292
+    "size": 103292,
+    "last_update": "14/2/14"
   },
   {
     "name": "BiauKai.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BiauKai.ttf",
-    "size": 13911192
+    "size": 13911192,
+    "last_update": "14/2/14"
   },
   {
     "name": "BigCaslon.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/BigCaslon.ttf",
-    "size": 140976
+    "size": 140976,
+    "last_update": "14/2/14"
   },
   {
     "name": "Brush Script.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Brush%20Script.ttf",
-    "size": 222640
+    "size": 222640,
+    "last_update": "14/2/14"
   },
   {
     "name": "Century_Schoolbok.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Century_Schoolbok.ttf",
-    "size": 66420
+    "size": 66420,
+    "last_update": "22/8/13"
   },
   {
     "name": "Chalkboard.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Chalkboard.ttf",
-    "size": 162516
+    "size": 162516,
+    "last_update": "14/2/14"
   },
   {
     "name": "Chalkduster.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Chalkduster.ttf",
-    "size": 483652
+    "size": 483652,
+    "last_update": "14/2/14"
   },
   {
     "name": "Comic Sans MS Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Comic%20Sans%20MS%20Bold.ttf",
-    "size": 120120
+    "size": 120120,
+    "last_update": "14/2/14"
   },
   {
     "name": "Comic Sans MS.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Comic%20Sans%20MS.ttf",
-    "size": 135484
+    "size": 135484,
+    "last_update": "14/2/14"
   },
   {
     "name": "ComicSans.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ComicSans.ttf",
-    "size": 126364
+    "size": 126364,
+    "last_update": "14/2/14"
   },
   {
     "name": "Courier New Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Courier%20New%20Bold%20Italic.ttf",
-    "size": 506640
+    "size": 506640,
+    "last_update": "14/2/14"
   },
   {
     "name": "Courier New Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Courier%20New%20Bold.ttf",
-    "size": 691796
+    "size": 691796,
+    "last_update": "14/2/14"
   },
   {
     "name": "Courier New Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Courier%20New%20Italic.ttf",
-    "size": 589900
+    "size": 589900,
+    "last_update": "14/2/14"
   },
   {
     "name": "Courier New.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Courier%20New.ttf",
-    "size": 684624
+    "size": 684624,
+    "last_update": "14/2/14"
   },
   {
     "name": "Courier_New.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Courier_New.ttf",
-    "size": 297660
+    "size": 297660,
+    "last_update": "22/8/13"
   },
   {
     "name": "Cousine-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Cousine-Bold.ttf",
-    "size": 297368
+    "size": 297368,
+    "last_update": "5/9/14"
   },
   {
     "name": "Cousine-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Cousine-BoldItalic.ttf",
-    "size": 273408
+    "size": 273408,
+    "last_update": "5/9/14"
   },
   {
     "name": "Cousine-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Cousine-Italic.ttf",
-    "size": 270572
+    "size": 270572,
+    "last_update": "5/9/14"
   },
   {
     "name": "Cousine-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Cousine-Regular.ttf",
-    "size": 43912
+    "size": 43912,
+    "last_update": "5/9/14"
   },
   {
     "name": "DIN Alternate Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DIN%20Alternate%20Bold.ttf",
-    "size": 147024
+    "size": 147024,
+    "last_update": "14/2/14"
   },
   {
     "name": "DIN Condensed Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DIN%20Condensed%20Bold.ttf",
-    "size": 81704
+    "size": 81704,
+    "last_update": "14/2/14"
   },
   {
     "name": "DecoTypeNaskh.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DecoTypeNaskh.ttf",
-    "size": 73072
+    "size": 73072,
+    "last_update": "14/2/14"
   },
   {
     "name": "DejaVu Sans Mono Bold Oblique for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DejaVu%20Sans%20Mono%20Bold%20Oblique%20for%20Powerline.ttf",
-    "size": 236820
+    "size": 236820,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVu Sans Mono Bold for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DejaVu%20Sans%20Mono%20Bold%20for%20Powerline.ttf",
-    "size": 314800
+    "size": 314800,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVu Sans Mono Oblique for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DejaVu%20Sans%20Mono%20Oblique%20for%20Powerline.ttf",
-    "size": 242928
+    "size": 242928,
+    "last_update": "22/8/13"
   },
   {
     "name": "DejaVu Sans Mono for Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DejaVu%20Sans%20Mono%20for%20Powerline.ttf",
-    "size": 334548
+    "size": 334548,
+    "last_update": "22/8/13"
   },
   {
     "name": "DevanagariMT.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DevanagariMT.ttf",
-    "size": 332324
+    "size": 332324,
+    "last_update": "14/2/14"
   },
   {
     "name": "DevanagariMTBold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DevanagariMTBold.ttf",
-    "size": 315620
+    "size": 315620,
+    "last_update": "14/2/14"
   },
   {
     "name": "Droid Sans Mono for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Droid%20Sans%20Mono%20for%20Powerline.otf",
-    "size": 145520
+    "size": 145520,
+    "last_update": "22/8/13"
   },
   {
     "name": "DroidSans-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DroidSans-Bold.ttf",
-    "size": 191032
+    "size": 191032,
+    "last_update": "22/8/13"
   },
   {
     "name": "DroidSansFallback.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DroidSansFallback.ttf",
-    "size": 3022632
+    "size": 3022632,
+    "last_update": "22/8/13"
   },
   {
     "name": "DroidSansMono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/DroidSansMono.ttf",
-    "size": 78296
+    "size": 78296,
+    "last_update": "22/8/13"
   },
   {
     "name": "FantasqueSansMono-Bold.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FantasqueSansMono-Bold.otf",
-    "size": 83604
+    "size": 83604,
+    "last_update": "14/1/15"
   },
   {
     "name": "FantasqueSansMono-BoldItalic.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FantasqueSansMono-BoldItalic.otf",
-    "size": 147304
+    "size": 147304,
+    "last_update": "14/1/15"
   },
   {
     "name": "FantasqueSansMono-RegItalic.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FantasqueSansMono-RegItalic.otf",
-    "size": 89996
+    "size": 89996,
+    "last_update": "14/1/15"
   },
   {
     "name": "FantasqueSansMono-Regular.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FantasqueSansMono-Regular.otf",
-    "size": 84916
+    "size": 84916,
+    "last_update": "14/1/15"
   },
   {
     "name": "FiraMono-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FiraMono-Bold.ttf",
-    "size": 121500
+    "size": 121500,
+    "last_update": "14/2/14"
   },
   {
     "name": "FiraMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/FiraMono-Regular.ttf",
-    "size": 124484
+    "size": 124484,
+    "last_update": "14/2/14"
   },
   {
     "name": "Geeza Pro Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Geeza%20Pro%20Bold.ttf",
-    "size": 474064
+    "size": 474064,
+    "last_update": "14/2/14"
   },
   {
     "name": "Geeza Pro.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Geeza%20Pro.ttf",
-    "size": 513988
+    "size": 513988,
+    "last_update": "14/2/14"
   },
   {
     "name": "Georgia Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Georgia%20Bold%20Italic.ttf",
-    "size": 385768
+    "size": 385768,
+    "last_update": "14/2/14"
   },
   {
     "name": "Georgia Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Georgia%20Bold.ttf",
-    "size": 363800
+    "size": 363800,
+    "last_update": "14/2/14"
   },
   {
     "name": "Georgia Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Georgia%20Italic.ttf",
-    "size": 400624
+    "size": 400624,
+    "last_update": "14/2/14"
   },
   {
     "name": "Georgia.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Georgia.ttf",
-    "size": 379588
+    "size": 379588,
+    "last_update": "29/10/24"
   },
   {
     "name": "GujaratiMT.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/GujaratiMT.ttf",
-    "size": 224940
+    "size": 224940,
+    "last_update": "14/2/14"
   },
   {
     "name": "GujaratiMTBold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/GujaratiMTBold.ttf",
-    "size": 213708
+    "size": 213708,
+    "last_update": "14/2/14"
   },
   {
     "name": "Gungseouche.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Gungseouche.ttf",
-    "size": 10658192
+    "size": 10658192,
+    "last_update": "14/2/14"
   },
   {
     "name": "Gurmukhi.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Gurmukhi.ttf",
-    "size": 64572
+    "size": 64572,
+    "last_update": "14/2/14"
   },
   {
     "name": "Hack-BoldOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Hack-BoldOblique.ttf",
-    "size": 408788
+    "size": 408788,
+    "last_update": "27/9/15"
   },
   {
     "name": "Hack-RegularOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Hack-RegularOblique.ttf",
-    "size": 438452
+    "size": 438452,
+    "last_update": "27/9/15"
   },
   {
     "name": "HeadlineA.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/HeadlineA.ttf",
-    "size": 1215336
+    "size": 1215336,
+    "last_update": "14/2/14"
   },
   {
     "name": "Hei.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Hei.ttf",
-    "size": 7502752
+    "size": 7502752,
+    "last_update": "14/2/14"
   },
   {
     "name": "Helvetica.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Helvetica.ttf",
-    "size": 33056
+    "size": 33056,
+    "last_update": "22/8/13"
   },
   {
     "name": "Herculanum.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Herculanum.ttf",
-    "size": 106264
+    "size": 106264,
+    "last_update": "14/2/14"
   },
   {
     "name": "Hoefler Text Ornaments.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Hoefler%20Text%20Ornaments.ttf",
-    "size": 40988
+    "size": 40988,
+    "last_update": "14/2/14"
   },
   {
     "name": "InaiMathi.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/InaiMathi.ttf",
-    "size": 263572
+    "size": 263572,
+    "last_update": "14/2/14"
   },
   {
     "name": "Inconsolata for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Inconsolata%20for%20Powerline.otf",
-    "size": 28828
+    "size": 28828,
+    "last_update": "22/8/13"
   },
   {
     "name": "Inconsolata-dz for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Inconsolata-dz%20for%20Powerline.otf",
-    "size": 25768
+    "size": 25768,
+    "last_update": "22/8/13"
   },
   {
     "name": "Inconsolata-g-Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Inconsolata-g-Powerline.ttf",
-    "size": 31789
+    "size": 31789,
+    "last_update": "22/8/13"
   },
   {
     "name": "Inconsolata.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Inconsolata.ttf",
-    "size": 31860
+    "size": 31860,
+    "last_update": "22/8/13"
   },
   {
     "name": "Isonorm MN.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Isonorm%20MN.ttf",
-    "size": 62393
+    "size": 62393,
+    "last_update": "14/2/14"
   },
   {
     "name": "Jan Fromm - CamingoCode Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Jan%20Fromm%20-%20CamingoCode%20Bold%20Italic.ttf",
-    "size": 91804
+    "size": 91804,
+    "last_update": "5/9/14"
   },
   {
     "name": "Jan Fromm - CamingoCode Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Jan%20Fromm%20-%20CamingoCode%20Bold.ttf",
-    "size": 85156
+    "size": 85156,
+    "last_update": "5/9/14"
   },
   {
     "name": "Jan Fromm - CamingoCode Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Jan%20Fromm%20-%20CamingoCode%20Italic.ttf",
-    "size": 91532
+    "size": 91532,
+    "last_update": "5/9/14"
   },
   {
     "name": "Jan Fromm - CamingoCode Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Jan%20Fromm%20-%20CamingoCode%20Regular.ttf",
-    "size": 93500
+    "size": 93500,
+    "last_update": "5/9/14"
   },
   {
     "name": "Kai.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Kai.ttf",
-    "size": 7888604
+    "size": 7888604,
+    "last_update": "14/2/14"
   },
   {
     "name": "Kailasa.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Kailasa.ttf",
-    "size": 620764
+    "size": 620764,
+    "last_update": "14/2/14"
   },
   {
     "name": "Keyboard.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Keyboard.ttf",
-    "size": 33232
+    "size": 33232,
+    "last_update": "14/2/14"
   },
   {
     "name": "Khmer Sangam MN.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Khmer%20Sangam%20MN.ttf",
-    "size": 278444
+    "size": 278444,
+    "last_update": "14/2/14"
   },
   {
     "name": "Kokonor.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Kokonor.ttf",
-    "size": 974272
+    "size": 974272,
+    "last_update": "14/2/14"
   },
   {
     "name": "Krungthep.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Krungthep.ttf",
-    "size": 187804
+    "size": 187804,
+    "last_update": "14/2/14"
   },
   {
     "name": "KufiStandardGK.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/KufiStandardGK.ttf",
-    "size": 82204
+    "size": 82204,
+    "last_update": "14/2/14"
   },
   {
     "name": "Lao Sangam MN.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Lao%20Sangam%20MN.ttf",
-    "size": 88000
+    "size": 88000,
+    "last_update": "14/2/14"
   },
   {
     "name": "LastResort.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/LastResort.ttf",
-    "size": 708072
+    "size": 708072,
+    "last_update": "14/2/14"
   },
   {
     "name": "LetterGothic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/LetterGothic.ttf",
-    "size": 56934
+    "size": 56934,
+    "last_update": "14/2/14"
   },
   {
     "name": "Literation Mono Powerline Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Literation%20Mono%20Powerline%20Bold%20Italic.ttf",
-    "size": 279128
+    "size": 279128,
+    "last_update": "22/8/13"
   },
   {
     "name": "Literation Mono Powerline Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Literation%20Mono%20Powerline%20Bold.ttf",
-    "size": 302856
+    "size": 302856,
+    "last_update": "22/8/13"
   },
   {
     "name": "Literation Mono Powerline Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Literation%20Mono%20Powerline%20Italic.ttf",
-    "size": 276168
+    "size": 276168,
+    "last_update": "22/8/13"
   },
   {
     "name": "Literation Mono Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Literation%20Mono%20Powerline.ttf",
-    "size": 314552
+    "size": 314552,
+    "last_update": "22/8/13"
   },
   {
     "name": "Lucida_Grande.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Lucida_Grande.ttf",
-    "size": 256356
+    "size": 256356,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG L DZ Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20L%20DZ%20Regular%20for%20Powerline.otf",
-    "size": 487380
+    "size": 487380,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG L Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20L%20Regular%20for%20Powerline.otf",
-    "size": 487108
+    "size": 487108,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG M DZ Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf",
-    "size": 487380
+    "size": 487380,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG M Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20M%20Regular%20for%20Powerline.otf",
-    "size": 487108
+    "size": 487108,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG S DZ Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20S%20DZ%20Regular%20for%20Powerline.otf",
-    "size": 487380
+    "size": 487380,
+    "last_update": "22/8/13"
   },
   {
     "name": "Meslo LG S Regular for Powerline.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Meslo%20LG%20S%20Regular%20for%20Powerline.otf",
-    "size": 487108
+    "size": 487108,
+    "last_update": "22/8/13"
   },
   {
     "name": "Microsoft Sans Serif.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Microsoft%20Sans%20Serif.ttf",
-    "size": 652248
+    "size": 652248,
+    "last_update": "14/2/14"
   },
   {
     "name": "Monoisome-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Monoisome-Regular.ttf",
-    "size": 254384
+    "size": 254384,
+    "last_update": "29/11/16"
   },
   {
     "name": "MshtakanBold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/MshtakanBold.ttf",
-    "size": 37320
+    "size": 37320,
+    "last_update": "14/2/14"
   },
   {
     "name": "MshtakanBoldOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/MshtakanBoldOblique.ttf",
-    "size": 41400
+    "size": 41400,
+    "last_update": "14/2/14"
   },
   {
     "name": "MshtakanOblique.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/MshtakanOblique.ttf",
-    "size": 51360
+    "size": 51360,
+    "last_update": "14/2/14"
   },
   {
     "name": "MshtakanRegular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/MshtakanRegular.ttf",
-    "size": 46172
+    "size": 46172,
+    "last_update": "14/2/14"
   },
   {
     "name": "Myanmar Sangam MN.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Myanmar%20Sangam%20MN.ttf",
-    "size": 200600
+    "size": 200600,
+    "last_update": "14/2/14"
   },
   {
     "name": "NISC18030.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/NISC18030.ttf",
-    "size": 7108232
+    "size": 7108232,
+    "last_update": "14/2/14"
   },
   {
     "name": "Nadeem.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Nadeem.ttf",
-    "size": 56284
+    "size": 56284,
+    "last_update": "14/2/14"
   },
   {
     "name": "Osaka.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Osaka.ttf",
-    "size": 3631328
+    "size": 3631328,
+    "last_update": "14/2/14"
   },
   {
     "name": "OsakaMono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/OsakaMono.ttf",
-    "size": 2307144
+    "size": 2307144,
+    "last_update": "14/2/14"
   },
   {
     "name": "PCmyoungjo.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PCmyoungjo.ttf",
-    "size": 9515016
+    "size": 9515016,
+    "last_update": "14/2/14"
   },
   {
     "name": "PF Din Mono Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Bold%20Italic.ttf",
-    "size": 90268
+    "size": 90268,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Bold.ttf",
-    "size": 74904
+    "size": 74904,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono ExtraThin Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20ExtraThin%20Italic.ttf",
-    "size": 93776
+    "size": 93776,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono ExtraThin.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20ExtraThin.ttf",
-    "size": 78716
+    "size": 78716,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Italic.ttf",
-    "size": 94720
+    "size": 94720,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Light Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Light%20Italic.ttf",
-    "size": 97716
+    "size": 97716,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Light.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Light.ttf",
-    "size": 80372
+    "size": 80372,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Medium Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Medium%20Italic.ttf",
-    "size": 93824
+    "size": 93824,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Medium.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Medium.ttf",
-    "size": 78432
+    "size": 78432,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Thin Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Thin%20Italic.ttf",
-    "size": 95076
+    "size": 95076,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono Thin.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono%20Thin.ttf",
-    "size": 79560
+    "size": 79560,
+    "last_update": "4/11/15"
   },
   {
     "name": "PF Din Mono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PF%20Din%20Mono.ttf",
-    "size": 79468
+    "size": 79468,
+    "last_update": "4/11/15"
   },
   {
     "name": "PTM55F.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PTM55F.ttf",
-    "size": 174592
+    "size": 174592,
+    "last_update": "14/2/14"
   },
   {
     "name": "PTM75F.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PTM75F.ttf",
-    "size": 140464
+    "size": 140464,
+    "last_update": "14/2/14"
   },
   {
     "name": "Pilgiche.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Pilgiche.ttf",
-    "size": 4676380
+    "size": 4676380,
+    "last_update": "14/2/14"
   },
   {
     "name": "PlantagenetCherokee.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PlantagenetCherokee.ttf",
-    "size": 72336
+    "size": 72336,
+    "last_update": "14/2/14"
   },
   {
     "name": "PragmataPro.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/PragmataPro.ttf",
-    "size": 335528
+    "size": 335528,
+    "last_update": "4/11/15"
   },
   {
     "name": "ProggyClean.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ProggyClean.ttf",
-    "size": 41208
+    "size": 41208,
+    "last_update": "22/8/13"
   },
   {
     "name": "ProggyCleanCE.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ProggyCleanCE.ttf",
-    "size": 45232
+    "size": 45232,
+    "last_update": "22/8/13"
   },
   {
     "name": "ProggySmall.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ProggySmall.ttf",
-    "size": 34396
+    "size": 34396,
+    "last_update": "22/8/13"
   },
   {
     "name": "ProggySquare.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ProggySquare.ttf",
-    "size": 41588
+    "size": 41588,
+    "last_update": "22/8/13"
   },
   {
     "name": "ProggyTinySZ.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ProggyTinySZ.ttf",
-    "size": 35684
+    "size": 35684,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sathu.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sathu.ttf",
-    "size": 416356
+    "size": 416356,
+    "last_update": "14/2/14"
   },
   {
     "name": "Sauce Code Powerline Black.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Black.otf",
-    "size": 93320
+    "size": 93320,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline Bold.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Bold.otf",
-    "size": 96968
+    "size": 96968,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline ExtraLight.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20ExtraLight.otf",
-    "size": 87488
+    "size": 87488,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline Light.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Light.otf",
-    "size": 91456
+    "size": 91456,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline Medium.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Medium.otf",
-    "size": 93160
+    "size": 93160,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline Regular.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Regular.otf",
-    "size": 93668
+    "size": 93668,
+    "last_update": "22/8/13"
   },
   {
     "name": "Sauce Code Powerline Semibold.otf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Sauce%20Code%20Powerline%20Semibold.otf",
-    "size": 94068
+    "size": 94068,
+    "last_update": "22/8/13"
   },
   {
     "name": "Silom.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Silom.ttf",
-    "size": 289824
+    "size": 289824,
+    "last_update": "14/2/14"
   },
   {
     "name": "Skia.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Skia.ttf",
-    "size": 491796
+    "size": 491796,
+    "last_update": "14/2/14"
   },
   {
     "name": "Symbol.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Symbol.ttf",
-    "size": 103400
+    "size": 103400,
+    "last_update": "29/10/24"
   },
   {
     "name": "Tahoma Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Tahoma%20Bold.ttf",
-    "size": 626928
+    "size": 626928,
+    "last_update": "14/2/14"
   },
   {
     "name": "Tahoma.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Tahoma.ttf",
-    "size": 681120
+    "size": 681120,
+    "last_update": "29/10/24"
   },
   {
     "name": "Times New Roman Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Times%20New%20Roman%20Bold%20Italic.ttf",
-    "size": 620008
+    "size": 620008,
+    "last_update": "14/2/14"
   },
   {
     "name": "Times New Roman Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Times%20New%20Roman%20Bold.ttf",
-    "size": 842168
+    "size": 842168,
+    "last_update": "14/2/14"
   },
   {
     "name": "Times New Roman Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Times%20New%20Roman%20Italic.ttf",
-    "size": 660268
+    "size": 660268,
+    "last_update": "14/2/14"
   },
   {
     "name": "Times New Roman.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Times%20New%20Roman.ttf",
-    "size": 834452
+    "size": 834452,
+    "last_update": "14/2/14"
   },
   {
     "name": "Trebuchet MS Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Trebuchet%20MS%20Bold%20Italic.ttf",
-    "size": 137008
+    "size": 137008,
+    "last_update": "14/2/14"
   },
   {
     "name": "Trebuchet MS Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Trebuchet%20MS%20Bold.ttf",
-    "size": 129360
+    "size": 129360,
+    "last_update": "14/2/14"
   },
   {
     "name": "Trebuchet MS Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Trebuchet%20MS%20Italic.ttf",
-    "size": 144820
+    "size": 144820,
+    "last_update": "14/2/14"
   },
   {
     "name": "Trebuchet MS.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Trebuchet%20MS.ttf",
-    "size": 138848
+    "size": 138848,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu Mono derivative Powerline Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu%20Mono%20derivative%20Powerline%20Bold%20Italic.ttf",
-    "size": 209572
+    "size": 209572,
+    "last_update": "22/8/13"
   },
   {
     "name": "Ubuntu Mono derivative Powerline Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu%20Mono%20derivative%20Powerline%20Bold.ttf",
-    "size": 183188
+    "size": 183188,
+    "last_update": "22/8/13"
   },
   {
     "name": "Ubuntu Mono derivative Powerline Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu%20Mono%20derivative%20Powerline%20Italic.ttf",
-    "size": 202028
+    "size": 202028,
+    "last_update": "22/8/13"
   },
   {
     "name": "Ubuntu Mono derivative Powerline.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu%20Mono%20derivative%20Powerline.ttf",
-    "size": 197584
+    "size": 197584,
+    "last_update": "22/8/13"
   },
   {
     "name": "Ubuntu-BI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-BI.ttf",
-    "size": 356980
+    "size": 356980,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-L.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-L.ttf",
-    "size": 415552
+    "size": 415552,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-LI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-LI.ttf",
-    "size": 409608
+    "size": 409608,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-M.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-M.ttf",
-    "size": 341324
+    "size": 341324,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-MI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-MI.ttf",
-    "size": 366992
+    "size": 366992,
+    "last_update": "14/2/14"
   },
   {
     "name": "Ubuntu-RI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Ubuntu-RI.ttf",
-    "size": 386440
+    "size": 386440,
+    "last_update": "14/2/14"
   },
   {
     "name": "UbuntuMono-B.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/UbuntuMono-B.ttf",
-    "size": 191400
+    "size": 191400,
+    "last_update": "14/2/14"
   },
   {
     "name": "UbuntuMono-BI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/UbuntuMono-BI.ttf",
-    "size": 216208
+    "size": 216208,
+    "last_update": "14/2/14"
   },
   {
     "name": "UbuntuMono-RI.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/UbuntuMono-RI.ttf",
-    "size": 210216
+    "size": 210216,
+    "last_update": "14/2/14"
   },
   {
     "name": "Vera-Bold-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Vera-Bold-Italic.ttf",
-    "size": 63208
+    "size": 63208,
+    "last_update": "22/8/13"
   },
   {
     "name": "Vera-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Vera-Bold.ttf",
-    "size": 58716
+    "size": 58716,
+    "last_update": "22/8/13"
   },
   {
     "name": "Vera-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Vera-Italic.ttf",
-    "size": 63684
+    "size": 63684,
+    "last_update": "22/8/13"
   },
   {
     "name": "Vera.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Vera.ttf",
-    "size": 65932
+    "size": 65932,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraMono-Bold-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraMono-Bold-Italic.ttf",
-    "size": 55032
+    "size": 55032,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraMono-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraMono-Bold.ttf",
-    "size": 49052
+    "size": 49052,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraMono-Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraMono-Italic.ttf",
-    "size": 54508
+    "size": 54508,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraMono.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraMono.ttf",
-    "size": 49224
+    "size": 49224,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraSerif-Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraSerif-Bold.ttf",
-    "size": 58736
+    "size": 58736,
+    "last_update": "22/8/13"
   },
   {
     "name": "VeraSerif.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/VeraSerif.ttf",
-    "size": 60280
+    "size": 60280,
+    "last_update": "22/8/13"
   },
   {
     "name": "Verdana Bold Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Verdana%20Bold%20Italic.ttf",
-    "size": 173132
+    "size": 173132,
+    "last_update": "14/2/14"
   },
   {
     "name": "Verdana Bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Verdana%20Bold.ttf",
-    "size": 153260
+    "size": 153260,
+    "last_update": "14/2/14"
   },
   {
     "name": "Verdana Italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Verdana%20Italic.ttf",
-    "size": 174612
+    "size": 174612,
+    "last_update": "14/2/14"
   },
   {
     "name": "Verdana.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Verdana.ttf",
-    "size": 186188
+    "size": 186188,
+    "last_update": "29/10/24"
   },
   {
     "name": "Webdings.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Webdings.ttf",
-    "size": 124308
+    "size": 124308,
+    "last_update": "29/10/24"
   },
   {
     "name": "Wingdings 2.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Wingdings%202.ttf",
-    "size": 68768
+    "size": 68768,
+    "last_update": "14/2/14"
   },
   {
     "name": "Wingdings 3.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Wingdings%203.ttf",
-    "size": 38308
+    "size": 38308,
+    "last_update": "14/2/14"
   },
   {
     "name": "Wingdings.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Wingdings.ttf",
-    "size": 86384
+    "size": 86384,
+    "last_update": "14/2/14"
   },
   {
     "name": "ZapfDingbats.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/ZapfDingbats.ttf",
-    "size": 154132
+    "size": 154132,
+    "last_update": "14/2/14"
   },
   {
     "name": "Zapfino.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/Zapfino.ttf",
-    "size": 398884
+    "size": 398884,
+    "last_update": "14/2/14"
   },
   {
     "name": "arial-monospaced-mt.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/arial-monospaced-mt.ttf",
-    "size": 57335
+    "size": 57335,
+    "last_update": "22/8/13"
   },
   {
     "name": "iosevka-bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevka-bold.ttf",
-    "size": 217492
+    "size": 217492,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevka-bolditalic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevka-bolditalic.ttf",
-    "size": 223924
+    "size": 223924,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevka-italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevka-italic.ttf",
-    "size": 226564
+    "size": 226564,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevkacc-bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevkacc-bold.ttf",
-    "size": 219448
+    "size": 219448,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevkacc-bolditalic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevkacc-bolditalic.ttf",
-    "size": 226420
+    "size": 226420,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevkacc-italic.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevkacc-italic.ttf",
-    "size": 228796
+    "size": 228796,
+    "last_update": "4/11/15"
   },
   {
     "name": "iosevkacc-regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/iosevkacc-regular.ttf",
-    "size": 221908
+    "size": 221908,
+    "last_update": "4/11/15"
   },
   {
     "name": "monaco.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/monaco.ttf",
-    "size": 59872
+    "size": 59872,
+    "last_update": "14/2/14"
   },
   {
     "name": "monof55.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/monof55.ttf",
-    "size": 169452
+    "size": 169452,
+    "last_update": "22/8/13"
   },
   {
     "name": "monof56.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/monof56.ttf",
-    "size": 181628
+    "size": 181628,
+    "last_update": "22/8/13"
   },
   {
     "name": "mplus-1mn-bold.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/mplus-1mn-bold.ttf",
-    "size": 1242324
+    "size": 1242324,
+    "last_update": "21/9/15"
   },
   {
     "name": "mplus-1mn-light.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/mplus-1mn-light.ttf",
-    "size": 1232704
+    "size": 1232704,
+    "last_update": "21/9/15"
   },
   {
     "name": "mplus-1mn-medium.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/mplus-1mn-medium.ttf",
-    "size": 1231932
+    "size": 1231932,
+    "last_update": "21/9/15"
   },
   {
     "name": "mplus-1mn-regular.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/mplus-1mn-regular.ttf",
-    "size": 1243076
+    "size": 1243076,
+    "last_update": "21/9/15"
   },
   {
     "name": "mplus-1mn-thin.ttf",
     "download_url": "https://raw.githubusercontent.com/justrajdeep/fonts/master/mplus-1mn-thin.ttf",
-    "size": 1230540
+    "size": 1230540,
+    "last_update": "21/9/15"
   },
   {
     "name": "Candara.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candara.ttf",
-    "size": 219532
+    "size": 219532,
+    "last_update": "29/10/24"
   },
   {
     "name": "Candarab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candarab.ttf",
-    "size": 227604
+    "size": 227604,
+    "last_update": "29/10/24"
   },
   {
     "name": "Candarai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candarai.ttf",
-    "size": 227648
+    "size": 227648,
+    "last_update": "29/10/24"
   },
   {
     "name": "Candaral.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candaral.ttf",
-    "size": 122132
+    "size": 122132,
+    "last_update": "29/10/24"
   },
   {
     "name": "Candarali.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candarali.ttf",
-    "size": 120996
+    "size": 120996,
+    "last_update": "29/10/24"
   },
   {
     "name": "Candaraz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Candaraz.ttf",
-    "size": 229364
+    "size": 229364,
+    "last_update": "29/10/24"
   },
   {
     "name": "Gabriola.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Gabriola.ttf",
-    "size": 1806004
+    "size": 1806004,
+    "last_update": "29/10/24"
   },
   {
     "name": "Inkfree.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Inkfree.ttf",
-    "size": 41164
+    "size": 41164,
+    "last_update": "29/10/24"
   },
   {
     "name": "LeelUIsl.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/LeelUIsl.ttf",
-    "size": 386264
+    "size": 386264,
+    "last_update": "29/10/24"
   },
   {
     "name": "LeelaUIb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/LeelaUIb.ttf",
-    "size": 327420
+    "size": 327420,
+    "last_update": "29/10/24"
   },
   {
     "name": "LeelawUI.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/LeelawUI.ttf",
-    "size": 393764
+    "size": 393764,
+    "last_update": "29/10/24"
   },
   {
     "name": "Nirmala.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/Nirmala.ttf",
-    "size": 1518820
+    "size": 1518820,
+    "last_update": "29/10/24"
   },
   {
     "name": "NirmalaB.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/NirmalaB.ttf",
-    "size": 1472884
+    "size": 1472884,
+    "last_update": "29/10/24"
   },
   {
     "name": "NirmalaS.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/NirmalaS.ttf",
-    "size": 1553396
+    "size": 1553396,
+    "last_update": "29/10/24"
   },
   {
     "name": "WEBDINGS.TTF",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/WEBDINGS.TTF",
-    "size": 121664
+    "size": 121664,
+    "last_update": "29/10/24"
   },
   {
     "name": "WINGDNG2.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/WINGDNG2.ttf",
-    "size": 65788
+    "size": 65788,
+    "last_update": "29/10/24"
   },
   {
     "name": "WINGDNG3.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/WINGDNG3.ttf",
-    "size": 35328
+    "size": 35328,
+    "last_update": "29/10/24"
   },
   {
     "name": "arialbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/arialbd.ttf",
-    "size": 980756
+    "size": 980756,
+    "last_update": "29/10/24"
   },
   {
     "name": "arialbi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/arialbi.ttf",
-    "size": 721144
+    "size": 721144,
+    "last_update": "29/10/24"
   },
   {
     "name": "ariali.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ariali.ttf",
-    "size": 717428
+    "size": 717428,
+    "last_update": "29/10/24"
   },
   {
     "name": "ariblk.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ariblk.ttf",
-    "size": 167592
+    "size": 167592,
+    "last_update": "29/10/24"
   },
   {
     "name": "bahnschrift.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/bahnschrift.ttf",
-    "size": 371380
+    "size": 371380,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibri.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibri.ttf",
-    "size": 1648120
+    "size": 1648120,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibrib.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibrib.ttf",
-    "size": 1613668
+    "size": 1613668,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibrii.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibrii.ttf",
-    "size": 1196672
+    "size": 1196672,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibril.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibril.ttf",
-    "size": 1438808
+    "size": 1438808,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibrili.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibrili.ttf",
-    "size": 1061248
+    "size": 1061248,
+    "last_update": "29/10/24"
   },
   {
     "name": "calibriz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/calibriz.ttf",
-    "size": 1159032
+    "size": 1159032,
+    "last_update": "29/10/24"
   },
   {
     "name": "cambriab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/cambriab.ttf",
-    "size": 841440
+    "size": 841440,
+    "last_update": "29/10/24"
   },
   {
     "name": "cambriai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/cambriai.ttf",
-    "size": 892620
+    "size": 892620,
+    "last_update": "29/10/24"
   },
   {
     "name": "cambriaz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/cambriaz.ttf",
-    "size": 856672
+    "size": 856672,
+    "last_update": "29/10/24"
   },
   {
     "name": "comic.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/comic.ttf",
-    "size": 245600
+    "size": 245600,
+    "last_update": "29/10/24"
   },
   {
     "name": "comicbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/comicbd.ttf",
-    "size": 229408
+    "size": 229408,
+    "last_update": "29/10/24"
   },
   {
     "name": "comici.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/comici.ttf",
-    "size": 226708
+    "size": 226708,
+    "last_update": "29/10/24"
   },
   {
     "name": "comicz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/comicz.ttf",
-    "size": 224252
+    "size": 224252,
+    "last_update": "29/10/24"
   },
   {
     "name": "consola.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/consola.ttf",
-    "size": 459180
+    "size": 459180,
+    "last_update": "29/10/24"
   },
   {
     "name": "consolab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/consolab.ttf",
-    "size": 397896
+    "size": 397896,
+    "last_update": "29/10/24"
   },
   {
     "name": "consolai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/consolai.ttf",
-    "size": 467584
+    "size": 467584,
+    "last_update": "29/10/24"
   },
   {
     "name": "consolaz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/consolaz.ttf",
-    "size": 407956
+    "size": 407956,
+    "last_update": "29/10/24"
   },
   {
     "name": "constan.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/constan.ttf",
-    "size": 448376
+    "size": 448376,
+    "last_update": "29/10/24"
   },
   {
     "name": "constanb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/constanb.ttf",
-    "size": 451824
+    "size": 451824,
+    "last_update": "29/10/24"
   },
   {
     "name": "constani.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/constani.ttf",
-    "size": 448748
+    "size": 448748,
+    "last_update": "29/10/24"
   },
   {
     "name": "constanz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/constanz.ttf",
-    "size": 455564
+    "size": 455564,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbel.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbel.ttf",
-    "size": 277168
+    "size": 277168,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbelb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbelb.ttf",
-    "size": 290908
+    "size": 290908,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbeli.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbeli.ttf",
-    "size": 284690
+    "size": 284690,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbell.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbell.ttf",
-    "size": 172256
+    "size": 172256,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbelli.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbelli.ttf",
-    "size": 169228
+    "size": 169228,
+    "last_update": "29/10/24"
   },
   {
     "name": "corbelz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/corbelz.ttf",
-    "size": 294692
+    "size": 294692,
+    "last_update": "29/10/24"
   },
   {
     "name": "cour.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/cour.ttf",
-    "size": 806504
+    "size": 806504,
+    "last_update": "29/10/24"
   },
   {
     "name": "courbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/courbd.ttf",
-    "size": 805244
+    "size": 805244,
+    "last_update": "29/10/24"
   },
   {
     "name": "courbi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/courbi.ttf",
-    "size": 577488
+    "size": 577488,
+    "last_update": "29/10/24"
   },
   {
     "name": "couri.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/couri.ttf",
-    "size": 667440
+    "size": 667440,
+    "last_update": "29/10/24"
   },
   {
     "name": "ebrima.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ebrima.ttf",
-    "size": 907232
+    "size": 907232,
+    "last_update": "29/10/24"
   },
   {
     "name": "ebrimabd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ebrimabd.ttf",
-    "size": 916908
+    "size": 916908,
+    "last_update": "29/10/24"
   },
   {
     "name": "framd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/framd.ttf",
-    "size": 133632
+    "size": 133632,
+    "last_update": "29/10/24"
   },
   {
     "name": "framdit.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/framdit.ttf",
-    "size": 148728
+    "size": 148728,
+    "last_update": "29/10/24"
   },
   {
     "name": "gadugi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/gadugi.ttf",
-    "size": 247240
+    "size": 247240,
+    "last_update": "29/10/24"
   },
   {
     "name": "gadugib.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/gadugib.ttf",
-    "size": 244912
+    "size": 244912,
+    "last_update": "29/10/24"
   },
   {
     "name": "georgia.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/georgia.ttf",
-    "size": 219712
+    "size": 219712,
+    "last_update": "29/10/24"
   },
   {
     "name": "georgiab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/georgiab.ttf",
-    "size": 207476
+    "size": 207476,
+    "last_update": "29/10/24"
   },
   {
     "name": "georgiai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/georgiai.ttf",
-    "size": 208444
+    "size": 208444,
+    "last_update": "29/10/24"
   },
   {
     "name": "georgiaz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/georgiaz.ttf",
-    "size": 211780
+    "size": 211780,
+    "last_update": "29/10/24"
   },
   {
     "name": "himalaya.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/himalaya.ttf",
-    "size": 572776
+    "size": 572776,
+    "last_update": "29/10/24"
   },
   {
     "name": "impact.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/impact.ttf",
-    "size": 206784
+    "size": 206784,
+    "last_update": "29/10/24"
   },
   {
     "name": "javatext.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/javatext.ttf",
-    "size": 305448
+    "size": 305448,
+    "last_update": "29/10/24"
   },
   {
     "name": "l_10646.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/l_10646.ttf",
-    "size": 309516
+    "size": 309516,
+    "last_update": "29/10/24"
   },
   {
     "name": "lucon.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/lucon.ttf",
-    "size": 111108
+    "size": 111108,
+    "last_update": "29/10/24"
   },
   {
     "name": "malgun.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/malgun.ttf",
-    "size": 13457164
+    "size": 13457164,
+    "last_update": "29/10/24"
   },
   {
     "name": "malgunbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/malgunbd.ttf",
-    "size": 12598360
+    "size": 12598360,
+    "last_update": "29/10/24"
   },
   {
     "name": "malgunsl.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/malgunsl.ttf",
-    "size": 5083156
+    "size": 5083156,
+    "last_update": "29/10/24"
   },
   {
     "name": "marlett.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/marlett.ttf",
-    "size": 27724
+    "size": 27724,
+    "last_update": "29/10/24"
   },
   {
     "name": "micross.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/micross.ttf",
-    "size": 876256
+    "size": 876256,
+    "last_update": "29/10/24"
   },
   {
     "name": "mmrtext.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/mmrtext.ttf",
-    "size": 355292
+    "size": 355292,
+    "last_update": "29/10/24"
   },
   {
     "name": "mmrtextb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/mmrtextb.ttf",
-    "size": 335368
+    "size": 335368,
+    "last_update": "29/10/24"
   },
   {
     "name": "monbaiti.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/monbaiti.ttf",
-    "size": 289052
+    "size": 289052,
+    "last_update": "29/10/24"
   },
   {
     "name": "msyi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/msyi.ttf",
-    "size": 301180
+    "size": 301180,
+    "last_update": "29/10/24"
   },
   {
     "name": "mtextra.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/mtextra.ttf",
-    "size": 27092
+    "size": 27092,
+    "last_update": "14/9/15"
   },
   {
     "name": "mvboli.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/mvboli.ttf",
-    "size": 78272
+    "size": 78272,
+    "last_update": "29/10/24"
   },
   {
     "name": "ntailu.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ntailu.ttf",
-    "size": 74464
+    "size": 74464,
+    "last_update": "29/10/24"
   },
   {
     "name": "ntailub.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/ntailub.ttf",
-    "size": 67168
+    "size": 67168,
+    "last_update": "29/10/24"
   },
   {
     "name": "pala.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/pala.ttf",
-    "size": 472284
+    "size": 472284,
+    "last_update": "29/10/24"
   },
   {
     "name": "palab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/palab.ttf",
-    "size": 419932
+    "size": 419932,
+    "last_update": "29/10/24"
   },
   {
     "name": "palabi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/palabi.ttf",
-    "size": 335292
+    "size": 335292,
+    "last_update": "29/10/24"
   },
   {
     "name": "palai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/palai.ttf",
-    "size": 413708
+    "size": 413708,
+    "last_update": "29/10/24"
   },
   {
     "name": "phagspa.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/phagspa.ttf",
-    "size": 93720
+    "size": 93720,
+    "last_update": "29/10/24"
   },
   {
     "name": "phagspab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/phagspab.ttf",
-    "size": 97476
+    "size": 97476,
+    "last_update": "29/10/24"
   },
   {
     "name": "segmdl2.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segmdl2.ttf",
-    "size": 261872
+    "size": 261872,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoepr.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoepr.ttf",
-    "size": 168404
+    "size": 168404,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeprb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeprb.ttf",
-    "size": 167800
+    "size": 167800,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoesc.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoesc.ttf",
-    "size": 596948
+    "size": 596948,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoescb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoescb.ttf",
-    "size": 581252
+    "size": 581252,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeui.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeui.ttf",
-    "size": 955804
+    "size": 955804,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeuib.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeuib.ttf",
-    "size": 951724
+    "size": 951724,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeuii.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeuii.ttf",
-    "size": 529712
+    "size": 529712,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeuil.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeuil.ttf",
-    "size": 913712
+    "size": 913712,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeuisl.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeuisl.ttf",
-    "size": 854140
+    "size": 854140,
+    "last_update": "29/10/24"
   },
   {
     "name": "segoeuiz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/segoeuiz.ttf",
-    "size": 541468
+    "size": 541468,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguibl.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguibl.ttf",
-    "size": 324260
+    "size": 324260,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguibli.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguibli.ttf",
-    "size": 356008
+    "size": 356008,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguiemj.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguiemj.ttf",
-    "size": 2072388
+    "size": 2072388,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguihis.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguihis.ttf",
-    "size": 1400724
+    "size": 1400724,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguili.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguili.ttf",
-    "size": 459940
+    "size": 459940,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguisb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguisb.ttf",
-    "size": 971080
+    "size": 971080,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguisbi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguisbi.ttf",
-    "size": 457892
+    "size": 457892,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguisli.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguisli.ttf",
-    "size": 467180
+    "size": 467180,
+    "last_update": "29/10/24"
   },
   {
     "name": "seguisym.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/seguisym.ttf",
-    "size": 2454728
+    "size": 2454728,
+    "last_update": "29/10/24"
   },
   {
     "name": "simsunb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/simsunb.ttf",
-    "size": 17064180
+    "size": 17064180,
+    "last_update": "29/10/24"
   },
   {
     "name": "sylfaen.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/sylfaen.ttf",
-    "size": 256528
+    "size": 256528,
+    "last_update": "29/10/24"
   },
   {
     "name": "symbol.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/symbol.ttf",
-    "size": 69036
+    "size": 69036,
+    "last_update": "29/10/24"
   },
   {
     "name": "tahoma.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/tahoma.ttf",
-    "size": 939280
+    "size": 939280,
+    "last_update": "29/10/24"
   },
   {
     "name": "tahomabd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/tahomabd.ttf",
-    "size": 867988
+    "size": 867988,
+    "last_update": "29/10/24"
   },
   {
     "name": "taile.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/taile.ttf",
-    "size": 67568
+    "size": 67568,
+    "last_update": "29/10/24"
   },
   {
     "name": "taileb.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/taileb.ttf",
-    "size": 58532
+    "size": 58532,
+    "last_update": "29/10/24"
   },
   {
     "name": "times.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/times.ttf",
-    "size": 1195688
+    "size": 1195688,
+    "last_update": "29/10/24"
   },
   {
     "name": "timesbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/timesbd.ttf",
-    "size": 1175904
+    "size": 1175904,
+    "last_update": "29/10/24"
   },
   {
     "name": "timesbi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/timesbi.ttf",
-    "size": 881860
+    "size": 881860,
+    "last_update": "29/10/24"
   },
   {
     "name": "timesi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/timesi.ttf",
-    "size": 940288
+    "size": 940288,
+    "last_update": "29/10/24"
   },
   {
     "name": "trebuc.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/trebuc.ttf",
-    "size": 254396
+    "size": 254396,
+    "last_update": "29/10/24"
   },
   {
     "name": "trebucbd.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/trebucbd.ttf",
-    "size": 244124
+    "size": 244124,
+    "last_update": "29/10/24"
   },
   {
     "name": "trebucbi.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/trebucbi.ttf",
-    "size": 225868
+    "size": 225868,
+    "last_update": "29/10/24"
   },
   {
     "name": "trebucit.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/trebucit.ttf",
-    "size": 252224
+    "size": 252224,
+    "last_update": "29/10/24"
   },
   {
     "name": "verdana.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/verdana.ttf",
-    "size": 243304
+    "size": 243304,
+    "last_update": "29/10/24"
   },
   {
     "name": "verdanab.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/verdanab.ttf",
-    "size": 211260
+    "size": 211260,
+    "last_update": "29/10/24"
   },
   {
     "name": "verdanai.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/verdanai.ttf",
-    "size": 223268
+    "size": 223268,
+    "last_update": "29/10/24"
   },
   {
     "name": "verdanaz.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/verdanaz.ttf",
-    "size": 229800
+    "size": 229800,
+    "last_update": "29/10/24"
   },
   {
     "name": "wingding.ttf",
     "download_url": "https://raw.githubusercontent.com/dv-anomaly/ttf-wps-fonts/master/wingding.ttf",
-    "size": 82180
+    "size": 82180,
+    "last_update": "29/10/24"
   }
 ]
