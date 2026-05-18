@@ -5,6 +5,256 @@
     "size": 13940
   },
   {
+    "name": "DMSans-Italic-VariableFont_opsz,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DMSans-Italic-VariableFont_opsz%2Cwght.ttf",
+    "size": 283524
+  },
+  {
+    "name": "DMSans-VariableFont_opsz,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DMSans-VariableFont_opsz%2Cwght.ttf",
+    "size": 238984
+  },
+  {
+    "name": "Dongle-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Bold.ttf",
+    "size": 4476376
+  },
+  {
+    "name": "Dongle-Light.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Light.ttf",
+    "size": 4388892
+  },
+  {
+    "name": "Dongle-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Dongle-Regular.ttf",
+    "size": 4458436
+  },
+  {
+    "name": "DoppioOne-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/DoppioOne-Regular.ttf",
+    "size": 53684
+  },
+  {
+    "name": "IBMPlexSans-Italic-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/IBMPlexSans-Italic-VariableFont_wdth%2Cwght.ttf",
+    "size": 594116
+  },
+  {
+    "name": "IBMPlexSans-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/IBMPlexSans-VariableFont_wdth%2Cwght.ttf",
+    "size": 532740
+  },
+  {
+    "name": "Inter-Italic-VariableFont_opsz,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Inter-Italic-VariableFont_opsz%2Cwght.ttf",
+    "size": 904532
+  },
+  {
+    "name": "Inter-VariableFont_opsz,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Inter-VariableFont_opsz%2Cwght.ttf",
+    "size": 874708
+  },
+  {
+    "name": "JetBrainsMono-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/JetBrainsMono-Bold.ttf",
+    "size": 274096
+  },
+  {
+    "name": "JetBrainsMono-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/JetBrainsMono-Regular.ttf",
+    "size": 270224
+  },
+  {
+    "name": "Jura-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Jura-VariableFont_wght.ttf",
+    "size": 259928
+  },
+  {
+    "name": "KosugiMaru-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/KosugiMaru-Regular.ttf",
+    "size": 3565692
+  },
+  {
+    "name": "Mandali-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Mandali-Regular.ttf",
+    "size": 607268
+  },
+  {
+    "name": "Nunito-Italic-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Nunito-Italic-VariableFont_wght.ttf",
+    "size": 280276
+  },
+  {
+    "name": "Nunito-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Nunito-VariableFont_wght.ttf",
+    "size": 275644
+  },
+  {
+    "name": "OpenSans-Italic-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/OpenSans-Italic-VariableFont_wdth%2Cwght.ttf",
+    "size": 580280
+  },
+  {
+    "name": "OpenSans-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/OpenSans-VariableFont_wdth%2Cwght.ttf",
+    "size": 529700
+  },
+  {
+    "name": "Orbitron-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Orbitron-VariableFont_wght.ttf",
+    "size": 38548
+  },
+  {
+    "name": "PTSans-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Bold.ttf",
+    "size": 288340
+  },
+  {
+    "name": "PTSans-BoldItalic.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-BoldItalic.ttf",
+    "size": 210224
+  },
+  {
+    "name": "PTSans-Italic.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Italic.ttf",
+    "size": 270920
+  },
+  {
+    "name": "PTSans-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PTSans-Regular.ttf",
+    "size": 278612
+  },
+  {
+    "name": "PixelifySans-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Bold.ttf",
+    "size": 50872
+  },
+  {
+    "name": "PixelifySans-Medium.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Medium.ttf",
+    "size": 51072
+  },
+  {
+    "name": "PixelifySans-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-Regular.ttf",
+    "size": 51312
+  },
+  {
+    "name": "PixelifySans-SemiBold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-SemiBold.ttf",
+    "size": 51100
+  },
+  {
+    "name": "PixelifySans-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/PixelifySans-VariableFont_wght.ttf",
+    "size": 78372
+  },
+  {
+    "name": "RadioCanada-Italic-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/RadioCanada-Italic-VariableFont_wdth%2Cwght.ttf",
+    "size": 469128
+  },
+  {
+    "name": "RadioCanada-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/RadioCanada-VariableFont_wdth%2Cwght.ttf",
+    "size": 447576
+  },
+  {
+    "name": "Roboto-Italic-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Roboto-Italic-VariableFont_wdth%2Cwght.ttf",
+    "size": 497124
+  },
+  {
+    "name": "Roboto-VariableFont_wdth,wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Roboto-VariableFont_wdth%2Cwght.ttf",
+    "size": 468308
+  },
+  {
+    "name": "Silkscreen-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Silkscreen-Bold.ttf",
+    "size": 30384
+  },
+  {
+    "name": "Silkscreen-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/Silkscreen-Regular.ttf",
+    "size": 31960
+  },
+  {
+    "name": "SyneMono-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/SyneMono-Regular.ttf",
+    "size": 70064
+  },
+  {
+    "name": "TsukimiRounded-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Bold.ttf",
+    "size": 107848
+  },
+  {
+    "name": "TsukimiRounded-Light.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Light.ttf",
+    "size": 104808
+  },
+  {
+    "name": "TsukimiRounded-Medium.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Medium.ttf",
+    "size": 107448
+  },
+  {
+    "name": "TsukimiRounded-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-Regular.ttf",
+    "size": 107764
+  },
+  {
+    "name": "TsukimiRounded-SemiBold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TsukimiRounded-SemiBold.ttf",
+    "size": 109064
+  },
+  {
+    "name": "TurretRoad-Bold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Bold.ttf",
+    "size": 49396
+  },
+  {
+    "name": "TurretRoad-ExtraBold.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-ExtraBold.ttf",
+    "size": 50780
+  },
+  {
+    "name": "TurretRoad-ExtraLight.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-ExtraLight.ttf",
+    "size": 49532
+  },
+  {
+    "name": "TurretRoad-Light.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Light.ttf",
+    "size": 49200
+  },
+  {
+    "name": "TurretRoad-Medium.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Medium.ttf",
+    "size": 49848
+  },
+  {
+    "name": "TurretRoad-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/TurretRoad-Regular.ttf",
+    "size": 49420
+  },
+  {
+    "name": "VT323-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/VT323-Regular.ttf",
+    "size": 149688
+  },
+  {
+    "name": "WorkSans-Italic-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/WorkSans-Italic-VariableFont_wght.ttf",
+    "size": 335056
+  },
+  {
+    "name": "WorkSans-VariableFont_wght.ttf",
+    "download_url": "https://raw.githubusercontent.com/Ktiseos-Nyx/Dataset-Tools/pyqt6-base/dataset_tools/fonts/WorkSans-VariableFont_wght.ttf",
+    "size": 359628
+  },
+  {
     "name": "ARIAL.TTF",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/ARIAL.TTF",
     "size": 1036584
@@ -535,11 +785,6 @@
     "size": 917624
   },
   {
-    "name": "JetBrainsMono-Bold.ttf",
-    "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Bold.ttf",
-    "size": 165408
-  },
-  {
     "name": "JetBrainsMono-BoldItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-BoldItalic.ttf",
     "size": 167680
@@ -588,11 +833,6 @@
     "name": "JetBrainsMono-MediumItalic.ttf",
     "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-MediumItalic.ttf",
     "size": 168640
-  },
-  {
-    "name": "JetBrainsMono-Regular.ttf",
-    "download_url": "https://raw.githubusercontent.com/terroo/fonts/main/fonts/JetBrainsMono-Regular.ttf",
-    "size": 163964
   },
   {
     "name": "JetBrainsMono-Thin.ttf",
