@@ -23,5 +23,6 @@
   "autismmix": "Pony Diffusion",
   "sdxl": "SDXL",
   "sd15": "SD 1.5",
+  "v1-5-pruned-emaonly": "SD 1.5", 
   "flux": "Flux"
 }
