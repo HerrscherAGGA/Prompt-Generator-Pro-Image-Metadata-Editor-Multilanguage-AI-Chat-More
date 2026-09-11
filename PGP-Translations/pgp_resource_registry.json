@@ -1,8 +1,1 @@
-{ "resources": [
-  { "name": "Ri-mix - Style LORA", "aliases": ["ri-mix Ω v2", "rimix"],
-    "type": "LoRA", "version": "Ω v2 (Illustrious)",
-    "civ_model_id": 996220, "tensor_model_id": "",
-    "url": "https://civitai.com/models/996220",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/<UUID>/width=450/preview.jpg",
-    "nsfw": true }
-] }
+
